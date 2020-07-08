@@ -1,0 +1,19 @@
+<header>
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">{{ .Site.Title }}</a>
+      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div class="navbar-menu" id="navMenu">
+      <div class="navbar-start">
+        {{ range .Site.RegularPages }}
+        <a class="navbar-item" href="{{.Permalink}}">{{ .Title }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </nav>
+</header>

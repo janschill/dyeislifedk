@@ -1,0 +1,6 @@
+baseURL = "https://dyeislife.dk/"
+languageCode = "da-DK"
+title = "DyeislifeDK"
+theme = "dyeislifedk"
+[params]
+  description = "DyeislifeDK is the official website for all your DyeislifeDK content."

@@ -1,0 +1,5 @@
+<head>
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bulma.min.css">
+</head>
