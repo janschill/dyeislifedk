@@ -1,5 +1,21 @@
 {{ define "main" }}
-Single
-{{.Content}}
-
-{{end}}
+<section class="hero is-info is-bold">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ .Params.header }}
+      </h1>
+      {{ with .Params.subheader }}
+      <h2 class="subtitle">
+        {{ . }}
+      </h2>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<section class="section">
+  <article class="container content">
+    {{ .Content }}
+  </article>
+</section>
+{{ end }}

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ .Site.LanguageCode }}">
 {{ partial "head.html" . }}
 
 <body>
     {{ partial "header.html" . }}
-    <div id="content" class="container content is-fluid">
+    <div id="content" class="">
         {{ block "main" . }}{{ end }}
     </div>
     {{ partial "footer.html" . }}
