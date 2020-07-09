@@ -1,7 +1,7 @@
 ---
-title: 'Season'
+title: 'Sæsoner'
 ---
 
-# Seasonssssssssss
+# Sæsoner
 
 {{< season url="data/seasons.json" >}}
