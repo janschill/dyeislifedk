@@ -1,8 +1,7 @@
 ---
-title: "Home"
+title: "Hjem"
 ---
 
-# Dyeislife title from MD
+# Velkommen
 
-This is index content
-
+Den er index siden. Det er super flodt.
