@@ -4,7 +4,7 @@
 
 <body>
     {{ partial "header.html" . }}
-    <div id="content">
+    <div id="content" class="container content is-fluid">
         {{ block "main" . }}{{ end }}
     </div>
     {{ partial "footer.html" . }}

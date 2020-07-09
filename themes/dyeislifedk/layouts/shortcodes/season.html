@@ -1,0 +1,41 @@
+{{ with .Get "url" }}
+{{ $url := . }}
+{{ $data := getJSON $url }}
+{{ range $data.seasons }}
+{{ $item := . }}
+<section class="section">
+  <h3>{{ $item.year }}</h3>
+  {{ $dorms := $item.dorms }}
+  {{ range $dorms }}
+  {{ $dorm := . }}
+  <article class="container">
+    <h4>{{ $dorm.name }}</h4>
+    <table class="table is-striped is-hoverable is-narrow">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Team A</th>
+          <th>Team B</th>
+          <th>Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ $games := $dorm.games }}
+        {{ range $games }}
+        {{ $game := . }}
+        <tr>
+          <td>{{ dateFormat "Jan 2, 2006" $game.date }}</td>
+          <td {{ if gt $game.pointsA $game.pointsB }}class="is-success" {{ end }}>{{ index (sort $game.teamA) 0 }} &
+            {{ index (sort $game.teamA) 1 }}</td>
+          <td {{ if gt $game.pointsB $game.pointsA }}class="is-success" {{ end }}>{{ index (sort $game.teamB) 0 }} &
+            {{ index (sort $game.teamB) 1 }}</td>
+          <td><strong>{{ $game.pointsA }}:{{ $game.pointsB }}</strong></td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </article>
+  {{ end }}
+</section>
+{{ end }}
+{{ end }}
