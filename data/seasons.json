@@ -4,25 +4,6 @@
       "year": 2020,
       "dorms": [
         {
-          "name": "Bikuben",
-          "games": [
-            {
-              "teamA": [
-                "Jan",
-                "Rasmus"
-              ],
-              "teamB": [
-                "Hans",
-                "Karl"
-              ],
-              "pointsA": 11,
-              "pointsB": 0,
-              "winner": "teamA",
-              "date": "2020-07-08T18:51:00"
-            }
-          ]
-        },
-        {
           "name": "Tietgenkollegiet",
           "games": [
             {
