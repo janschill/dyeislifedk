@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+{{ $languageCode := printf "%s" .Site.Language }}
+<html lang="{{ if eq $languageCode `da`}}{{$languageCode}}-DK{{else}}{{ $languageCode }}{{end}}">
 {{ partial "head.html" . }}
 
 <body>

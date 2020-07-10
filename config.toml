@@ -1,6 +1,17 @@
+defaultContentLanguage = "da"
+publishDir = "docs"
 baseURL = "https://dyeislife.dk/"
-languageCode = "da-DK"
-title = "DyeislifeDK"
+title = "Dyeislife.DK"
 theme = "dyeislifedk"
 [params]
-  description = "DyeislifeDK is the official website for all your DyeislifeDK content."
+  description = "DyeislifeDK is the official website for all your Dyeislife.DK content."
+
+
+[languages]
+  [languages.en]
+    flag = "🇬🇧"
+    weight = 0
+  [languages.da]
+    flag = "🇩🇰"
+    weight = 0
+

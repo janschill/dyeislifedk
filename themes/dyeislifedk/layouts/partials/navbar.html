@@ -13,6 +13,11 @@
         {{ range .Site.RegularPages }}
         <a class="navbar-item" href="{{.Permalink}}">{{ .Title }}</a>
         {{ end }}
+        {{ if .IsTranslated }}
+        {{ range .Translations }}
+        <a class="navbar-item" href="{{ .Permalink }}">{{ .Site.Params.Flag }}</a>
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
