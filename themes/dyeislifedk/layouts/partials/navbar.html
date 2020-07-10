@@ -1,7 +1,9 @@
 <nav class="navbar">
   <div class="container">
     <div class="navbar-brand">
-      <a class="navbar-item" href="/">{{ .Site.Title }}</a>
+      <a class="navbar-item is-bright" href="/">
+        <img src="{{ .Site.BaseURL }}logo/dyeislifedk-logo-simple.svg" alt="{{ .Site.Title }}.">
+      </a>
       <span class="navbar-burger burger" data-target="navbarMenuHeroA">
         <span></span>
         <span></span>
@@ -11,7 +13,7 @@
     <div id="navbarMenuHeroA" class="navbar-menu">
       <div class="navbar-end">
         {{ range .Site.RegularPages }}
-        <a class="navbar-item" href="{{.Permalink}}">{{ .Title }}</a>
+        <a class="navbar-item is-bright" href="{{.Permalink}}">{{ .Title }}</a>
         {{ end }}
         {{ if .IsTranslated }}
         {{ range .Translations }}
