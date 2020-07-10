@@ -1,7 +1,7 @@
 ---
 title: 'Sæsoner'
+header: 'Sæsoner'
+subheader: 'Sæsoner'
 ---
-
-# Sæsoner
 
 {{< season url="data/seasons.json" >}}

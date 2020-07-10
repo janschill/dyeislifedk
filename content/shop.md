@@ -1,7 +1,7 @@
 ---
 title: 'Shop'
+header: 'Shop'
+subheader: 'Shop'
 ---
-
-# Shop
 
 Our shop
