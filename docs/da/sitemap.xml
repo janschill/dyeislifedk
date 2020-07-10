@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>http://dyeislife.dk/gallery/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://dyeislife.dk/en/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="http://dyeislife.dk/gallery/"
-                />
-  </url>
-  
-  <url>
     <loc>http://dyeislife.dk/</loc>
     <xhtml:link
                 rel="alternate"
