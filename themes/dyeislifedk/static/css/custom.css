@@ -14,3 +14,11 @@
 .hero .is-transparent{
   opacity: 1.0;
 }
+
+.is-bright {
+  color: #ffffff
+}
+
+.is-dark {
+  color: #ffffff
+}

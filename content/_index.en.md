@@ -1,5 +1,6 @@
 ---
 title: "Home"
+hero: "videos/dyeislifedk-butterfly.mov"
 ---
 
 # Velkommen

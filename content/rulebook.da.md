@@ -2,6 +2,7 @@
 title: 'Regelsæt'
 header: 'Beer Die (Dye) regler'
 subheader: 'I Sink You Drink'
+hero: "images/dyeislifedk-tietgenkollegiet.jpg"
 ---
 
 ## Set-Up

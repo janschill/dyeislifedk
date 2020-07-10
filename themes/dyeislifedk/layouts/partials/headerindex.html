@@ -1,16 +1,20 @@
 <section class="hero is-medium has-background">
-  <video autoplay loop muted class="hero-background is-transparent"
-    src="{{ .Site.BaseURL }}videos/dyeislifedk-butterfly.mov"></video>
+  {{ $url := printf "%s" .Params.Hero }}
+  {{ if in $url "videos" }}
+  <video autoplay loop muted class="hero-background is-transparent" src="{{ .Site.BaseURL }}{{ .Params.Hero}}"></video>
+  {{ else }}
+  <img class="hero-background is-transparent" src="{{ .Site.BaseURL }}{{ .Params.Hero}}" alt="">
+  {{ end }}
   <div class="hero-head">
     {{ partial "navbar" . }}
   </div>
   <div class="hero-body">
-    <div class="container has-text-centered">
-      <h1 class="title">
-        DyeislifeDK
+    <div class="container has-text-centered is-link">
+      <h1 class="title is-bright">
+        {{ .Params.header }}
       </h1>
-      <h2 class="subtitle">
-        Subtitle
+      <h2 class="subtitle is-bright">
+        {{ .Params.subheader }}
       </h2>
     </div>
   </div>
