@@ -3,128 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dyeislife.dk/categories/</loc>
+    <loc>http://dyeislife.dk/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/categories/"
+                href="http://dyeislife.dk/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/categories/"
+                href="http://dyeislife.dk/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/gallery/</loc>
+    <loc>http://dyeislife.dk/gallery/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/gallery/"
+                href="http://dyeislife.dk/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/gallery/"
+                href="http://dyeislife.dk/gallery/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/</loc>
+    <loc>http://dyeislife.dk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/"
+                href="http://dyeislife.dk/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/"
+                href="http://dyeislife.dk/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/about/</loc>
+    <loc>http://dyeislife.dk/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/about/"
+                href="http://dyeislife.dk/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/about/"
+                href="http://dyeislife.dk/about/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/rulebook/</loc>
+    <loc>http://dyeislife.dk/rulebook/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/rulebook/"
+                href="http://dyeislife.dk/en/rulebook/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/rulebook/"
+                href="http://dyeislife.dk/rulebook/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/shop/</loc>
+    <loc>http://dyeislife.dk/shop/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/shop/"
+                href="http://dyeislife.dk/en/shop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/shop/"
+                href="http://dyeislife.dk/shop/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/season/</loc>
+    <loc>http://dyeislife.dk/season/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/season/"
+                href="http://dyeislife.dk/en/season/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/season/"
+                href="http://dyeislife.dk/season/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/tags/</loc>
+    <loc>http://dyeislife.dk/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/tags/"
+                href="http://dyeislife.dk/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/tags/"
+                href="http://dyeislife.dk/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://dyeislife.dk/tournament/</loc>
+    <loc>http://dyeislife.dk/tournament/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/tournament/"
+                href="http://dyeislife.dk/en/tournament/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/tournament/"
+                href="http://dyeislife.dk/tournament/"
                 />
   </url>
   

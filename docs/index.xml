@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hjem on Dyeislife.DK</title>
-    <link>https://dyeislife.dk/</link>
+    <link>http://dyeislife.dk/</link>
     <description>Recent content in Hjem on Dyeislife.DK</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://dyeislife.dk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dyeislife.dk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gallery</title>
-      <link>https://dyeislife.dk/gallery/</link>
+      <link>http://dyeislife.dk/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dyeislife.dk/gallery/</guid>
+      <guid>http://dyeislife.dk/gallery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Om os</title>
-      <link>https://dyeislife.dk/about/</link>
+      <link>http://dyeislife.dk/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dyeislife.dk/about/</guid>
+      <guid>http://dyeislife.dk/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regelsæt</title>
-      <link>https://dyeislife.dk/rulebook/</link>
+      <link>http://dyeislife.dk/rulebook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dyeislife.dk/rulebook/</guid>
+      <guid>http://dyeislife.dk/rulebook/</guid>
       <description>Hvad du har brug for  Fire spillere To terninger Et Dye bord* Fire briller Bajer  *Dye bord er 1.2 x 2.4 meter
 Afspilning Speciel </description>
     </item>
     
     <item>
       <title>Shop</title>
-      <link>https://dyeislife.dk/shop/</link>
+      <link>http://dyeislife.dk/shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dyeislife.dk/shop/</guid>
+      <guid>http://dyeislife.dk/shop/</guid>
       <description>Our shop</description>
     </item>
     
     <item>
       <title>Sæsoner</title>
-      <link>https://dyeislife.dk/season/</link>
+      <link>http://dyeislife.dk/season/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dyeislife.dk/season/</guid>
+      <guid>http://dyeislife.dk/season/</guid>
       <description> 2020 Tietgenkollegiet   Dato Hold A Hold B Score     Jul 8, 2020 Jan og Rasmus Hans og Karl 11:0   Jul 8, 2020 Jan og Rasmus Hans og Karl 8:11   Jul 9, 2020 Holger og Jan Hans og Karl 11:3      </description>
     </item>
     
     <item>
       <title>Turnering</title>
-      <link>https://dyeislife.dk/tournament/</link>
+      <link>http://dyeislife.dk/tournament/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dyeislife.dk/tournament/</guid>
+      <guid>http://dyeislife.dk/tournament/</guid>
       <description></description>
     </item>
     
