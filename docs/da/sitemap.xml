@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dyeislife.dk/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/gallery/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/rulebook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/rulebook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/rulebook/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/shop/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/shop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/shop/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/season/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/season/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/season/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dyeislife.dk/tournament/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/tournament/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/tournament/"
+                />
+  </url>
+  
+</urlset>
