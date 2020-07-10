@@ -1,0 +1,19 @@
+<nav class="navbar">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">{{ .Site.Title }}</a>
+      <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+        <span></span>
+        <span></span>
+        <span></span>
+      </span>
+    </div>
+    <div id="navbarMenuHeroA" class="navbar-menu">
+      <div class="navbar-end">
+        {{ range .Site.RegularPages }}
+        <a class="navbar-item" href="{{.Permalink}}">{{ .Title }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</nav>

@@ -3,7 +3,13 @@
 {{ partial "head.html" . }}
 
 <body>
+
+    {{if .IsHome}}
+    {{ partial "headerindex.html" . }}
+    {{else}}
     {{ partial "header.html" . }}
+    {{end}}
+
     <div id="content" class="">
         {{ block "main" . }}{{ end }}
     </div>
