@@ -1,5 +1,5 @@
 {{ $languageCode := printf "%s" .languageCode }}
-<div class="card" id="shop-{{ .id }}">
+<div class="card" id="shop-{{ .context.id }}">
   <div class="card-image">
     <figure class="image is-4by3">
       <img src="/{{ .context.imageURL }}"

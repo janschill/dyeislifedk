@@ -3,7 +3,7 @@
 {{ $data := getJSON $url }}
 {{ range $data.seasons }}
 {{ $item := . }}
-<section class="section">
+<section>
   <h3>{{ $item.year }}</h3>
   {{ $dorms := $item.dorms }}
   {{ range $dorms }}
