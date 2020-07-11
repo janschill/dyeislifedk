@@ -1,7 +1,7 @@
 ---
-title: 'Sæsoner'
-header: 'Sæsoner'
-subheader: 'Sæsoner'
+title: 'Seasons'
+header: 'Seasons'
+subheader: 'Seasons'
 hero: "images/dyeislifedk-tietgenkollegiet.jpg"
 ---
 
