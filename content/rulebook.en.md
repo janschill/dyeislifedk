@@ -2,7 +2,8 @@
 title: 'Rules'
 header: 'Beer Die (Dye) Rules'
 subheader: 'I Sink You Drink'
-hero: "images/dyeislifedk-tietgenkollegiet.jpg"
+hero: "images/dyeislifedk-tietgenkollegiet-3.jpg"
+objectPositionClass: "object-position-69"
 ---
 
 ## The Set-Up
