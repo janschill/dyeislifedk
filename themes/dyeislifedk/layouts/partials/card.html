@@ -1,0 +1,16 @@
+<div class="card" id="shop-{{ .id }}">
+  <div class="card-image">
+    <figure class="image is-4by3">
+      <img src="/{{ .imageURL }}" alt="DyeislifeDK {{ .name }}.">
+    </figure>
+  </div>
+  <div class="card-content">
+    <div class="content">
+      <h3 class="title is-4">{{ .name }}</h3>
+      <p>
+        {{ .description }}
+      </p>
+      <button data-target="shop-{{ .id }}" class="button is-info button-shop">Buy now</button>
+    </div>
+  </div>
+</div>

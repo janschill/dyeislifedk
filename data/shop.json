@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "shirt",
+      "name": "dyeislifedk shirt",
+      "price": "250 DKK",
+      "imageURL": "images/dyeislifedk-merchandise-shirt.png",
+      "description": "The missing piece in your wardrope: The dyeislifedk shirt. It is essential for every dyer and poser."
+    },
+    {
+      "id": "sticker",
+      "name": "Stickers",
+      "price": "50 DKK",
+      "imageURL": "images/dyeislifedk-merchandise-sticker.png",
+      "description": "blablbalabblb"
+    },
+    {
+      "id": "hat",
+      "name": "Hat",
+      "price": "250 DKK",
+      "imageURL": "images/dyeislifedk-merchandise-hat.png",
+      "description": "rerererererre"
+    }
+  ]
+}

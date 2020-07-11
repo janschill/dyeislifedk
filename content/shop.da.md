@@ -5,4 +5,4 @@ subheader: 'Shop'
 hero: "images/dyeislifedk-tietgenkollegiet.jpg"
 ---
 
-Our shop
+{{< shop url="data/shop.json" >}}

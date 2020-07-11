@@ -1,8 +1,8 @@
 ---
 title: 'Shop'
 header: 'Shop'
-subheader: 'Shop'
+subheader: 'Show everyone that you are Dyeing'
 hero: "images/dyeislifedk-tietgenkollegiet.jpg"
 ---
 
-Our shop
+{{< shop url="data/shop.json" >}}

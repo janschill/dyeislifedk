@@ -1,0 +1,12 @@
+{{ with .Get "url" }}
+{{ $url := . }}
+{{ $data := getJSON $url }}
+<div class="columns">
+  {{ range $data.items }}
+  {{ $item := . }}
+  <div class="column">
+    {{ partial "card" . }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}
