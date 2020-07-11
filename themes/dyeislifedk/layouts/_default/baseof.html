@@ -4,7 +4,11 @@
 {{ partial "head.html" . }}
 
 <body>
-    {{ partial "headerindex.html" . }}
+    {{ if isset .Params "hero" }}
+    {{ partial "header-image.html" . }}
+    {{ else }}
+    {{ partial "header.html" . }}
+    {{ end }}
 
     <div id="content" class="">
         {{ block "main" . }}{{ end }}

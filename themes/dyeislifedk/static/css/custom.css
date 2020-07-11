@@ -11,6 +11,10 @@
   height: 100%;
 }
 
+.hero .hero-background.object-position-69 {
+  object-position: 0 69%;
+}
+
 .hero .is-transparent{
   opacity: 1.0;
 }

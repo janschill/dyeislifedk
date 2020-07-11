@@ -3,8 +3,8 @@
   {{ if in $url "videos" }}
   <video autoplay loop muted class="hero-background is-transparent" src="{{ .Site.BaseURL }}{{ .Params.Hero}}"></video>
   {{ else }}
-  <img class="hero-background is-transparent" src="{{ .Site.BaseURL }}{{ .Params.Hero}}"
-    alt="DyeislifeDK Tietgenkollegiet.">
+  <img class="hero-background is-transparent {{ .Params.ObjectPositionClass }}"
+    src="{{ .Site.BaseURL }}{{ .Params.Hero}}" alt="DyeislifeDK Tietgenkollegiet.">
   {{ end }}
   <div class="hero-head">
     {{ partial "navbar" . }}
