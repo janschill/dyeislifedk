@@ -22,3 +22,15 @@
 .is-dark {
   color: #ffffff
 }
+
+.is-sold-out::after {
+  content: 'SOLD OUT';
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  color: red;
+  font-size: 3rem;
+  width: 100%;
+  transform: rotate(-45deg) translate(-50%, -50%);
+  text-align: center;
+}
