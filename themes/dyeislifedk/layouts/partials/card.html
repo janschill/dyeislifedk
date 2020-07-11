@@ -12,6 +12,9 @@
       <p>
         {{ cond (eq $languageCode "en") .context.description.en .context.description.da }}
       </p>
+      <p>
+        <i>{{ .context.price }}</i>
+      </p>
       <button data-target="shop-{{ .context.id }}"
         class="button is-info button-shop">{{ cond (eq $languageCode "en") "Buy now" "Køb nu" }}</button>
     </div>
