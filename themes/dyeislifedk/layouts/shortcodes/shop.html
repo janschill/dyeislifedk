@@ -1,3 +1,4 @@
+{{ $languageCode := .Params.languageCode }}
 {{ with .Get "url" }}
 {{ $url := . }}
 {{ $data := getJSON $url }}
@@ -5,7 +6,7 @@
   {{ range $data.items }}
   {{ $item := . }}
   <div class="column">
-    {{ partial "card" . }}
+    {{ partial "card" (dict "context" . "languageCode" $languageCode) }}
   </div>
   {{ end }}
 </div>
