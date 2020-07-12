@@ -1,6 +1,7 @@
 ---
 title: "Home"
-header: "Welcome"
+header: "dyeislifedk"
+subheader: "Butterfly and Butter Dye"
 hero: "videos/dyeislifedk-butterfly.mov"
 ---
 
