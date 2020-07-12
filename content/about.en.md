@@ -18,7 +18,7 @@ hero: "images/dyeislifedk-tietgenkollegiet.jpg"
   name="Karl"
   nickname="karlinho"
   imageURL="images/dyeislifedk-karl.jpg"
-  description="Karl is probably the most consistent player to exist. His table hit rate comes in on 97%. "
+  description="Karl is probably the most consistent player to exist. His table hit rate comes in on 97%. That is what a semester in the USA with every day Dyeing do with you. He is also the only one from us who had to do a naked run (There is a video online)."
 >}}
 
 {{< person
