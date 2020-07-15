@@ -18,7 +18,7 @@ hero: "images/dyeislifedk-tietgenkollegiet.jpg"
   name="Karl"
   nickname="karlinho"
   imageURL="images/dyeislifedk-karl.jpg"
-  description="Karl is probably the most consistent player to exist. His table hit rate comes in on 97%. That is what a semester in the USA with every day Dyeing do with you. He is also the only one from us who had to do a naked run (There is a video online)."
+  description="Karl is probably the most consistent player to exist. His table hit rate comes in on 97%. This is what a semester in the USA with every day Dyeing does with you. He is also the only one from us who had to do a naked run (There is a video online)."
 >}}
 
 {{< person
@@ -31,5 +31,5 @@ hero: "images/dyeislifedk-tietgenkollegiet.jpg"
   name="Rasmus"
   nickname="hasnotbeenseendyingsinceweeks"
   imageURL="images/dyeislifedk-rasmus.jpg"
-  description="Rasmus played one or two games and was then never seen to play again. One theory is that he did not like the idea of a dice having six sides, he is probably busy sketching prototypes for new a dice, that he could patent, sell and make into a technology company."
+  description="Rasmus played one or two games and was then never seen to play again. One theory is that he did not like the idea of a dice having six sides, he is probably busy sketching prototypes for a new dice, that he could patent, sell and make into a technology company."
 >}}

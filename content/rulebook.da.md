@@ -65,7 +65,7 @@ Hvis terningen bliver FIFA'ed og rammer det offensive holds side af bordet eller
 
 #### Andre regler
 
-* Naked Lap (Naked Mile): hvis et hold bliver sunket (taber 10-0), så skal de løbe en runde om blokken (eller tilsvarende) helt nøgne.
+* Naked Lap (Naked Mile): hvis et hold bliver ægget (taber 10-0), så skal de løbe en runde om blokken (eller tilsvarende) helt nøgne.
 * MINEN: hvis minen på midten af bordet bliver ramt med en terning på et hvilket som helst tidspunkt, skal den kastende spiller (eller tilskuer) tage øllen som en shotgun. Dette giver ingen point.
 * 'Femmer på bordet': hvis terningen bliver kastet, bliver på bordet og det er en femmer, skal den kastende spiller dræbe og fylde sin øl. Kastet giver ingen point.
 
