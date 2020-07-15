@@ -1,0 +1,47 @@
+<div class="tile is-ancestor">
+  <div class="tile is-vertical is-8">
+    <div class="tile">
+      <div class="tile is-parent is-vertical">
+        <article class="tile is-child notification">
+          <p class="title">{{ .Params.topLeftTitle }}</p>
+          <p class="subtitle">{{ .Params.topLeftSubtitle }}</p>
+          <figure class="image is-4by3">
+            <img src="{{ .Site.BaseURL }}{{ .Params.topLeftImageURL }}">
+          </figure>
+        </article>
+      </div>
+      <div class="tile is-parent">
+        <article class="tile is-child notification">
+          <p class="title">{{ .Params.middleTitle }}</p>
+          <p class="subtitle">{{ .Params.middleSubtitle }}</p>
+          <figure class="image is-4by3">
+            <img src="{{ .Site.BaseURL }}{{ .Params.middleImageURL }}">
+          </figure>
+        </article>
+      </div>
+    </div>
+    <div class="tile is-parent">
+      <article class="tile is-child notification">
+        <p class="title">{{ .Params.bottomTitle }}</p>
+        <p class="subtitle">{{ .Params.bottomSubtitle }}</p>
+        <div class="content">
+          {{ .Params.bottomContent }}
+        </div>
+      </article>
+    </div>
+  </div>
+  <div class="tile is-parent">
+    <article class="tile is-child notification">
+      <div class="content">
+        <p class="title"><a href="rulebook">{{ .Params.rightTitle }}</a></p>
+        <p class="subtitle">{{ .Params.rightSubtitle }}</p>
+        <div class="content">
+          {{ .Params.rightContent }}
+        </div>
+        <figure class="image is-4by3">
+          <img src="{{ .Site.BaseURL }}{{ .Params.rightImageURL }}">
+        </figure>
+      </div>
+    </article>
+  </div>
+</div>
