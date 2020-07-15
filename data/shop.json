@@ -9,8 +9,8 @@
       "price": "250 DKK",
       "imageURL": "images/dyeislifedk-merchandise-shirt.png",
       "description": {
-        "en": "The missing piece in your wardrope: The dyeislifedk shirt. It is essential for every dyer and poser.",
-        "da": ""
+        "en": "The missing piece in your wardrope: The dyeislifedk shirt. It is essential for every Dyer and poser.",
+        "da": "The missing piece in your wardrope: The dyeislifedk shirt. It is essential for every Dyer and poser."
       }
     },
     {
@@ -22,8 +22,8 @@
       "price": "50 DKK",
       "imageURL": "images/dyeislifedk-merchandise-sticker.png",
       "description": {
-        "en": "",
-        "da": ""
+        "en": "The stickers. Go out and spread the word of Dye, plaster it over your favorite public toilet. Please don't do this–it's vandalism.",
+        "da": "The stickers. Go out and spread the word of Dye, plaster it over your favorite public toilet. Please don't do this–it's vandalism."
       }
     },
     {
@@ -35,8 +35,8 @@
       "price": "250 DKK",
       "imageURL": "images/dyeislifedk-merchandise-hat.png",
       "description": {
-        "en": "",
-        "da": ""
+        "en": "What a hat. Great quality, great fit. Natural fit, can be flipped in intense games for the extra effort.",
+        "da": "What a hat. Great quality, great fit. Natural fit, can be flipped in intense games for the extra effort."
       }
     }
   ]
