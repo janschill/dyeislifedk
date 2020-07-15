@@ -1,5 +1,14 @@
 <div class="tile is-ancestor">
   <div class="tile is-vertical is-8">
+    <div class="tile is-parent">
+      <article class="tile is-child notification">
+        <p class="title">{{ .Params.bottomTitle }}</p>
+        <p class="subtitle">{{ .Params.bottomSubtitle }}</p>
+        <div class="content">
+          {{ .Params.bottomContent }}
+        </div>
+      </article>
+    </div>
     <div class="tile">
       <div class="tile is-parent is-vertical">
         <article class="tile is-child notification">
@@ -19,15 +28,6 @@
           </figure>
         </article>
       </div>
-    </div>
-    <div class="tile is-parent">
-      <article class="tile is-child notification">
-        <p class="title">{{ .Params.bottomTitle }}</p>
-        <p class="subtitle">{{ .Params.bottomSubtitle }}</p>
-        <div class="content">
-          {{ .Params.bottomContent }}
-        </div>
-      </article>
     </div>
   </div>
   <div class="tile is-parent">
