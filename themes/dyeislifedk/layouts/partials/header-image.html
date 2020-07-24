@@ -13,12 +13,16 @@
   </div>
   <div class="hero-body">
     <div class="container has-text-centered is-link">
+      {{ if .IsHome }}
+      <img class="logo logo--small" src="{{ .Site.BaseURL }}logo/dyeislifedk-logo-simple.svg" alt="{{ .Site.Title }}.">
+      {{ else }}
       <h1 class="title is-1 is-bright">
         {{ .Params.header }}
       </h1>
       <h2 class="subtitle is-4 is-bright">
         {{ .Params.subheader }}
       </h2>
+      {{ end }}
     </div>
   </div>
 </section>
