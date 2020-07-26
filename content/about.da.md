@@ -1,7 +1,7 @@
 ---
 title: 'Om os'
 header: 'Om os'
-subheader: 'Subheader'
+subheader: 'Fire drenge, to terninger'
 hero: "images/dyeislifedk-tietgenkollegiet.jpg"
 ---
 

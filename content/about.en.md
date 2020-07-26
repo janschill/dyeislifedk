@@ -1,7 +1,7 @@
 ---
 title: 'About us'
-header: ''
-subheader: ''
+header: 'About us'
+subheader: 'Four men, two dice'
 hero: "images/dyeislifedk-tietgenkollegiet.jpg"
 ---
 

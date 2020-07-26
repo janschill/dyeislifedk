@@ -1,0 +1,23 @@
+{{ with .Get "url" }}
+{{ $url := . }}
+{{ $data := getJSON $url }}
+<main class="bracket" id="tournament">
+  {{range $index, $round := $data.rounds}}
+  <ul class="round round-{{ add $index 1 }}">
+    <li class="spacer">&nbsp;</li>
+
+    {{ range $game := $round }}
+    <li class="game game-top{{ if gt $game.pointsA $game.pointsB }} winner{{ end }}">{{ index (sort $game.teamA) 0 }}
+      og {{ index (sort $game.teamA) 1 }}
+      <span>{{ $game.pointsA }}</span></li>
+    <li class="game game-spacer">&nbsp;</li>
+    <li class="game game-bottom{{ if gt $game.pointsB $game.pointsA }} winner{{ end }}">
+      {{ index (sort $game.teamB) 0 }} og {{ index (sort $game.teamB) 1 }}
+      <span>{{ $game.pointsB }}</span></li>
+
+    <li class="spacer">&nbsp;</li>
+    {{ end }}
+  </ul>
+  {{ end }}
+  {{ end }}
+</main>

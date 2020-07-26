@@ -1,0 +1,47 @@
+{
+  "rounds": [
+    [
+      {
+        "teamA": [
+          "Jan",
+          "Rasmus"
+        ],
+        "teamB": [
+          "Hans",
+          "Karl"
+        ],
+        "pointsA": 10,
+        "pointsB": 4,
+        "winner": "teamA"
+      },
+      {
+        "teamA": [
+          "William",
+          "Aksel"
+        ],
+        "teamB": [
+          "Niklas",
+          "Andreas"
+        ],
+        "pointsA": 8,
+        "pointsB": 10,
+        "winner": "teamB"
+      }
+    ],
+    [
+      {
+        "teamA": [
+          "Niklas",
+          "Andreas"
+        ],
+        "teamB": [
+          "Jan",
+          "Rasmus"
+        ],
+        "pointsA": 9,
+        "pointsB": 10,
+        "winner": "teamB"
+      }
+    ]
+  ]
+}
