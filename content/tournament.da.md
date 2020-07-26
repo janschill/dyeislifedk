@@ -1,7 +1,7 @@
 ---
 title: 'Turnering'
 header: 'Turnering'
-subheader: 'Turnering'
+subheader: 'I Just Dyed In Your Arms'
 hero: "images/dyeislifedk-tietgenkollegiet-6.jpg"
 objectPositionClass: "object-position-69"
 ---
