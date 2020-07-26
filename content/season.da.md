@@ -1,13 +1,13 @@
 ---
 title: 'Sæsoner'
 header: 'Sæsoner'
-subheader: 'Præcision, momentum, konsistens'
+subheader: 'Præcision, momentum, kynisme'
 hero: "images/dyeislifedk-tietgenkollegiet-4.jpg"
 ---
 
 # Ny sæson, nyt held
 
-Den officielle farvesæson er startet. Registrer dig ved at komme i kontakt med en af os og modtag dit 2020-certifikatkort for at kunne spille.
+Den officielle Dye esæson er startet. Registrer dig ved at kontakte med en af os og modtag dit 2020-certifikatkort for at kunne spille.
 
 ---
 
