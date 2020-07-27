@@ -18,7 +18,7 @@ hero: "images/dyeislifedk-tietgenkollegiet.jpg"
   name="Hans"
   nickname="minefifahans"
   imageURL="images/dyeislifedk-hans.jpg"
-  description="FIFA – en kontroversiel del af spillet – forsvares ihærdigt af Hans. Der går rygter om, at Hans jonglerer adskillelige gange med terningen på begge fødder, før han servere den millimeterpræcist for sin medspiller. Han arbejder også med højden på sine FIFA’er og er særlig kendt for sandsynligvis at lave historiens højeste FIFA, som overraskende nok blev grebet af @butterfingerjan. Derudover er Hans kendt for at gå målrettet efter minen!"
+  description="FIFA – en kontroversiel del af spillet – forsvares ihærdigt af Hans. Der går rygter om, at Hans jonglerer adskillige gange med terningen på begge fødder, før han servere den millimeterpræcist for sin medspiller. Han arbejder også med højden på sine FIFA’er og er særlig kendt for sandsynligvis at lave historiens højeste FIFA, som overraskende nok blev grebet af @butterfingerjan. Derudover er Hans kendt for at gå målrettet efter minen!"
 >}}
 
 {{< person
