@@ -31,16 +31,16 @@
     [
       {
         "teamA": [
-          "Niklas",
-          "Andreas"
-        ],
-        "teamB": [
           "Jan",
           "Rasmus"
         ],
-        "pointsA": 9,
-        "pointsB": 10,
-        "winner": "teamB"
+        "teamB": [
+          "Niklas",
+          "Andreas"
+        ],
+        "pointsA": 10,
+        "pointsB": 9,
+        "winner": "teamA"
       }
     ]
   ]
