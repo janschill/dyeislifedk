@@ -8,4 +8,4 @@ objectPositionClass: "object-position-69"
 
 # Official Beer Die (Dye) Tietgenkollegiet Tournament
 
-{{< tournament url="data/tournament.json" >}}
+{{< bracket url="data/tournament.json" >}}

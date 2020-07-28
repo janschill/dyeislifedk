@@ -1,46 +1,146 @@
 {
+  "teams": [
+    {
+      "teamName": "No time to die",
+      "teamMembers": [
+        "Laurits",
+        "Mads"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "Les deux merveilles",
+      "teamMembers": [
+        "Alexandre",
+        "Eline"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "The winning team",
+      "teamMembers": [
+        "Öykü",
+        "Daniel"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "Gøl & Fogh",
+      "teamMembers": [
+        "Frederik",
+        "Rasmus"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "RAM RANCH",
+      "teamMembers": [
+        "Marcus",
+        "N/A"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "Jonads",
+      "teamMembers": [
+        "Jon",
+        "Mads"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "Dye Hard 2: Dye Harder",
+      "teamMembers": [
+        "Gustav",
+        "N/A"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "N/A",
+      "teamMembers": [
+        "Karl",
+        "Hans"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "N/A",
+      "teamMembers": [
+        "Jan",
+        "William"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "N/A",
+      "teamMembers": [
+        "Viktoria",
+        "Clara"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "N/A",
+      "teamMembers": [
+        "Sebastian",
+        "Signe"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    }
+  ],
   "rounds": [
     [
       {
-        "teamA": [
-          "Jan",
-          "Rasmus"
-        ],
-        "teamB": [
-          "Hans",
-          "Karl"
-        ],
-        "pointsA": 10,
+        "teamName": "",
+        "teamA": [],
+        "teamB": [],
+        "pointsA": 0,
         "pointsB": 0,
-        "winner": "teamA"
-      },
-      {
-        "teamA": [
-          "William",
-          "Aksel"
-        ],
-        "teamB": [
-          "Niklas",
-          "Andreas"
-        ],
-        "pointsA": 8,
-        "pointsB": 10,
-        "winner": "teamB"
+        "winner": ""
       }
     ],
     [
       {
-        "teamA": [
-          "Jan",
-          "Rasmus"
-        ],
-        "teamB": [
-          "Niklas",
-          "Andreas"
-        ],
-        "pointsA": 10,
-        "pointsB": 9,
-        "winner": "teamA"
+        "teamName": "",
+        "teamA": [],
+        "teamB": [],
+        "pointsA": 0,
+        "pointsB": 0,
+        "winner": ""
       }
     ]
   ]
