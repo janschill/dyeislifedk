@@ -16,6 +16,7 @@ These standings do not mean that the team in position one is winner of the tourn
 
 ## Tournament bracket
 
-The tournament bracket will be announced as soon as all teams are registered.
+The tournament bracket will be announced as soon as all teams have registered. We will most likely play a **Double Elimination Tourney**, which means every team starts in bracket A. When they lose a game, they move to bracket B and have another chance of reaching the final. If you lose a game in bracket B you are out.
 
+{{< bracket url="data/example-tourney.json" >}}
 <!-- {{< bracket url="data/tournament.json" >}} -->

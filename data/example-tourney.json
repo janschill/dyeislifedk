@@ -1,0 +1,101 @@
+{
+  "bracketA": [
+    [
+      {
+        "teamNameA": "Team A",
+        "teamNameB": "Team B",
+        "teamA": [
+          "A1",
+          "A2"
+        ],
+        "teamB": [
+          "B1",
+          "B2"
+        ],
+        "pointsA": 10,
+        "pointsB": 8,
+        "winner": "teamA"
+      },
+      {
+        "teamNameA": "Team C",
+        "teamNameB": "Team D",
+        "teamA": [
+          "C1",
+          "C2"
+        ],
+        "teamB": [
+          "D1",
+          "D2"
+        ],
+        "pointsA": 5,
+        "pointsB": 10,
+        "winner": "teamB"
+      }
+    ],
+    [
+      {
+        "teamNameA": "Team A",
+        "teamNameB": "Team D",
+        "teamA": [
+          "A1",
+          "A2"
+        ],
+        "teamB": [
+          "D1",
+          "D2"
+        ],
+        "pointsA": 10,
+        "pointsB": 9,
+        "winner": "teamA"
+      }
+    ]
+  ],
+  "bracketB": [
+    [
+      {
+        "teamNameA": "Team B",
+        "teamNameB": "Team C",
+        "teamA": [
+          "B1",
+          "B2"
+        ],
+        "teamB": [
+          "C1",
+          "C2"
+        ],
+        "pointsA": 10,
+        "pointsB": 8,
+        "winner": "teamA"
+      }
+    ]
+  ],
+  "final": {
+    "teamNameA": "Team A",
+    "teamNameB": "Team B",
+    "teamAWins": 2,
+    "teamBWins": 1,
+    "teamA": [
+      "A1",
+      "A2"
+    ],
+    "teamB": [
+      "B1",
+      "B2"
+    ],
+    "game1": {
+      "pointsA": 3,
+      "pointsB": 10,
+      "winner": "teamB"
+    },
+    "game2": {
+      "pointsA": 10,
+      "pointsB": 7,
+      "winner": "teamA"
+    },
+    "game3": {
+      "pointsA": 10,
+      "pointsB": 6,
+      "winner": "teamA"
+    }
+  }
+}
