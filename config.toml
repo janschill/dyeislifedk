@@ -4,8 +4,7 @@ baseURL = "http://dyeislife.dk/"
 title = "Dyeislife.DK"
 theme = "dyeislifedk"
 [params]
-  description = "DyeislifeDK is the official website for all your Dyeislife.DK content."
-
+  description = "The number one resource for your dyeislifedk content. Come along for information around tournaments, season games, merch and everything dyeislifedk related."
 
 [languages]
   [languages.en]
@@ -14,4 +13,3 @@ theme = "dyeislifedk"
   [languages.da]
     flag = "🇩🇰"
     weight = 0
-
