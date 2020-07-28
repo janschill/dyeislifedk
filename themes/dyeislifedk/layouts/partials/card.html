@@ -2,7 +2,7 @@
 <div class="card" id="shop-{{ .context.id }}">
   <div class="card-image">
     <figure class="image is-4by3">
-      <img src="/{{ .context.imageURL }}"
+      <img loading=lazy src="/{{ .context.imageURL }}"
         alt="DyeislifeDK {{ cond (eq $languageCode `en`) .context.name.en .context.name.da }}.">
     </figure>
   </div>

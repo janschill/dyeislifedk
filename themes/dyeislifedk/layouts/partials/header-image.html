@@ -4,7 +4,7 @@
   <video playsinline autoplay loop muted class="hero-background is-transparent"
     src="{{ .Site.BaseURL }}{{ .Params.Hero}}"></video>
   {{ else }}
-  <img class="hero-background is-transparent {{ .Params.ObjectPositionClass }}"
+  <img loading=lazy class="hero-background is-transparent {{ .Params.ObjectPositionClass }}"
     src="{{ .Site.BaseURL }}{{ .Params.Hero}}" alt="DyeislifeDK Tietgenkollegiet.">
   {{ end }}
   <div class="media-overlay"></div>
@@ -14,7 +14,8 @@
   <div class="hero-body">
     <div class="container has-text-centered is-link">
       {{ if .IsHome }}
-      <img class="logo logo--small" src="{{ .Site.BaseURL }}logo/dyeislifedk-logo-simple.svg" alt="{{ .Site.Title }}.">
+      <img loading=lazy class="logo logo--small" src="{{ .Site.BaseURL }}logo/dyeislifedk-logo-simple.svg"
+        alt="{{ .Site.Title }}.">
       {{ else }}
       <h1 class="title is-1 is-bright">
         {{ .Params.header }}

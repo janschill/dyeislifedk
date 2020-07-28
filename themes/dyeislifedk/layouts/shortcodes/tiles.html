@@ -15,7 +15,7 @@
           <p class="title">{{ .Params.topLeftTitle }}</p>
           <p class="subtitle">{{ .Params.topLeftSubtitle }}</p>
           <figure class="image is-4by3">
-            <img src="{{ .Site.BaseURL }}{{ .Params.topLeftImageURL }}">
+            <img loading=lazy src="{{ .Site.BaseURL }}{{ .Params.topLeftImageURL }}">
           </figure>
         </article>
       </div>
@@ -24,7 +24,7 @@
           <p class="title">{{ .Params.middleTitle }}</p>
           <p class="subtitle">{{ .Params.middleSubtitle }}</p>
           <figure class="image is-4by3">
-            <img src="{{ .Site.BaseURL }}{{ .Params.middleImageURL }}">
+            <img loading=lazy src="{{ .Site.BaseURL }}{{ .Params.middleImageURL }}">
           </figure>
         </article>
       </div>
@@ -39,7 +39,7 @@
           {{ .Params.rightContent }}
         </div>
         <figure class="image is-4by3">
-          <img src="{{ .Site.BaseURL }}{{ .Params.rightImageURL }}">
+          <img loading=lazy src="{{ .Site.BaseURL }}{{ .Params.rightImageURL }}">
         </figure>
       </div>
     </article>
