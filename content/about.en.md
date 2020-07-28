@@ -28,6 +28,8 @@ hero: "images/dyeislifedk-tietgenkollegiet.jpg"
   description="Born and raised close to a dairy farm, Jan has been in contact with butter his whole life. Dropping on occasion a safe catch, gets him mocked for having butter fingers. He compensates by being a ruthless sinker. Holding currently the most sinks recorded. He carries køkkenrolle to every game."
 >}}
 
+## Resigned
+
 {{< person
   name="Rasmus"
   nickname="hasnotbeenseendyingsinceweeks"
