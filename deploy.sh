@@ -12,7 +12,7 @@ hugo
 cd docs
 
 # Add changes to git.
-git add .
+git add docs/
 
 # Commit changes.
 git commit -m "Adding generated files"
