@@ -1,7 +1,7 @@
 {{ with .Get "url" }}
 {{ $url := . }}
 {{ $data := getJSON $url }}
-<h2 class="title">Bracket A</h2>
+<h3 class="title">Bracket A</h3>
 <p>
   Everybody starts in this starting/winner bracket.
 </p>
@@ -25,7 +25,7 @@
   {{ end }}
 </main>
 <hr>
-<h2 class="title">Bracket B</h2>
+<h3 class="title">Bracket B</h3>
 <p>The secondary/losers bracket, everyone lands in this after losing one game.</p>
 <main class="bracket" id="tournament-bracket-b">
   {{range $index, $round := $data.bracketB}}
@@ -47,7 +47,7 @@
   {{ end }}
 </main>
 <hr>
-<h2 class="title">Final</h2>
+<h3 class="title">Final</h3>
 <p>The final is being played in a best of three. The first to win two games, wins the tournament.</p>
 <table class="table final">
   <thead>
