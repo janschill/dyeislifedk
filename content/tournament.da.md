@@ -8,9 +8,9 @@ objectPositionClass: "object-position-69"
 
 # Officiel Beer Die (Dye) Tietgenkollegiet Turnering
 
-## Overall standings
+## Overview of the teams
 
-These standings do not mean that the team in position one is winner of the tournament.
+This table is solemly to give an overview of all participants. Position 1 does not mean winner of the tournament.
 
 {{< standings url="data/tournament.json" >}}
 
