@@ -8,7 +8,7 @@ objectPositionClass: "object-position-69"
 
 # Official Beer Die (Dye) Tietgenkollegiet Tournament
 
-## Overall standings
+## Overview of the teams
 
 This table is solemly to give an overview of all participants. Position 1 does not mean winner of the tournament.
 
