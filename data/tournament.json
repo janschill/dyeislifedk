@@ -153,6 +153,39 @@
       "losses": 0,
       "sinks": 0,
       "mines": 0
+    },
+    {
+      "teamName": "Live hard, DYE trying",
+      "teamMembers": [
+        "Asger",
+        "Jonathan"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "Et godt navn",
+      "teamMembers": [
+        "Sara",
+        "Emil"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "High Rollers",
+      "teamMembers": [
+        "Milad",
+        "Danny"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
     }
   ],
   "rounds": [
