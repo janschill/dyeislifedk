@@ -186,6 +186,17 @@
       "losses": 0,
       "sinks": 0,
       "mines": 0
+    },
+    {
+      "teamName": "BFT’s finest",
+      "teamMembers": [
+        "Frederik",
+        "Rasmus"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
     }
   ],
   "rounds": [
