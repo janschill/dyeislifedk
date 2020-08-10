@@ -10,6 +10,10 @@ objectPositionClass: "object-position-69"
 
 Beer die (Dye) spilles som så mange andre ølspil på tusindevis af forskellige måder. Det følgende er holdet bag dyeislife.dk’s foretrukne regler, som vi anbefaler alle at spille efter. Dye Up!
 
+## How to play in video
+
+{{< video >}}
+
 ## Set-Up
 
 * Til Beer Die (også kaldet Dye) skal man bruge et 4' gange 8' (fod) krydsfinerbord med en skillelinie, der går på tværs af bordet gennem bordets midte. Det skal være 3' til 3½' højt

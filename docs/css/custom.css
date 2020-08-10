@@ -157,3 +157,7 @@ li.game-bottom {
 .is-fix-width {
   width: 90px;
 }
+
+.video {
+  width: 100%;
+}

@@ -10,6 +10,10 @@ objectPositionClass: "object-position-69"
 
 Beer die (Dye) can – like many other beer games – be played in thousands of different variations. The following are the preferred rules of the team behind dyeislife.dk, which we recommend everyone to follow. Dye Up!
 
+## How to play in video
+
+{{< video >}}
+
 ## The Set-Up
 
 * To play Beer Die (also referred to as dye), you will need a 4’ by 8’ (feet) plywood table with a dividing line going through the middle (vertically). It should be roughly 3 to 3 ½' off the ground
