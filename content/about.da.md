@@ -23,7 +23,7 @@ hero: "images/dyeislifedk-tietgenkollegiet.jpg"
 
 {{< person
   name="Jan"
-  nickname="Chief Technlodye Officer"
+  nickname="Chief Technolodye Officer"
   imageURL="images/dyeislifedk-jan.jpg"
   description="Født og opvokset tæt på et mejeri har Jan været i kontakt med smør helt fra barnsben. Da han ofte taber et ellers sikkert catch, formodes det, at hans fingrer faktisk er lavet af smør. Han holder dog pt. Rekorden for flest sinks på Tietgen-ground. Han medbringer køkkenrulle til hver kamp."
 >}}
