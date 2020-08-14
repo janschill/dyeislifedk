@@ -3,7 +3,7 @@ title: 'Turnering'
 header: 'Turnering'
 subheader: 'I Just Dyed In Your Arms'
 hero: "images/dyeislifedk-tietgenkollegiet-7.jpg"
-objectPositionClass: "object-position-69"
+objectPositionClass: "object-position-40"
 ---
 
 # Officiel Beer Die (Dye) Tietgenkollegiet Turnering

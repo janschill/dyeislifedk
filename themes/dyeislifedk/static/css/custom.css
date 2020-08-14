@@ -11,6 +11,10 @@
   height: 100%;
 }
 
+.hero .hero-background.object-position-40 {
+  object-position: 0 40%;
+}
+
 .hero .hero-background.object-position-69 {
   object-position: 0 69%;
 }
