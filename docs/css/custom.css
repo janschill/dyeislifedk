@@ -165,3 +165,7 @@ li.game-bottom {
 .video {
   width: 100%;
 }
+
+iframe .match--base-background {
+  fill: aliceblue !important;
+}
