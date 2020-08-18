@@ -16,9 +16,8 @@ This table is solemly to give an overview of all participants. Position 1 does n
 
 ## Tournament bracket
 
-The tournament bracket will be announced as soon as all teams have registered. We will most likely play a **Double Elimination Tourney**, which means every team starts in bracket A. When they lose a game, they move to bracket B and have another chance of reaching the final. If you lose a game in bracket B you are out.
+The tournament bracket will be announced as soon as all teams have registered. We will play a **Double Elimination Tourney**, which means every team starts in bracket A. When they lose a game, they move to bracket B and have another chance of reaching the final. If you lose a game in bracket B you are out.
 
-### Example
+The following bracket is **not the final** seeding. We will shuffle the seeds on the day of the tournament.
 
-{{< bracket url="data/example-tourney.json" >}}
-<!-- {{< bracket url="data/tournament.json" >}} -->
+{{< challonge >}}
