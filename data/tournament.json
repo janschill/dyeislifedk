@@ -103,7 +103,7 @@
       "teamName": "N/A",
       "teamMembers": [
         "Viktoria",
-        "Clara"
+        "Astrid"
       ],
       "wins": 0,
       "losses": 0,
@@ -236,6 +236,28 @@
       "teamMembers": [
         "Viktor",
         "Lando"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "Scotch Bonnet Bois",
+      "teamMembers": [
+        "Christian",
+        "Jean"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "NevaLost!",
+      "teamMembers": [
+        "Rasmus",
+        "Nikolaj"
       ],
       "wins": 0,
       "losses": 0,
