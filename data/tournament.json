@@ -274,6 +274,17 @@
       "losses": 0,
       "sinks": 0,
       "mines": 0
+    },
+    {
+      "teamName": "Hold farten",
+      "teamMembers": [
+        "Jonathan",
+        "N/A"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
     }
   ],
   "rounds": [
