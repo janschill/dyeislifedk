@@ -285,6 +285,17 @@
       "losses": 0,
       "sinks": 0,
       "mines": 0
+    },
+    {
+      "teamName": "Dyenamite",
+      "teamMembers": [
+        "Tom",
+        "Jessica"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
     }
   ],
   "rounds": [
