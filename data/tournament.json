@@ -320,10 +320,21 @@
       "mines": 0
     },
     {
-      "teamName": "BillyWilly",
+      "teamName": "Fry up",
       "teamMembers": [
         "Billy",
         "Will"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "Name to come",
+      "teamMembers": [
+        "Daniel",
+        "N/A"
       ],
       "wins": 0,
       "losses": 0,
