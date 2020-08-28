@@ -334,7 +334,7 @@
       "teamName": "Name to come",
       "teamMembers": [
         "Daniel",
-        "N/A"
+        "Ricco"
       ],
       "wins": 0,
       "losses": 0,
@@ -342,9 +342,9 @@
       "mines": 0
     },
     {
-      "teamName": "N/A",
+      "teamName": "Ricco‘s friends",
       "teamMembers": [
-        "Ricco",
+        "N/A",
         "N/A"
       ],
       "wins": 0,
@@ -352,27 +352,5 @@
       "sinks": 0,
       "mines": 0
     }
-  ],
-  "rounds": [
-    [
-      {
-        "teamName": "",
-        "teamA": [],
-        "teamB": [],
-        "pointsA": 0,
-        "pointsB": 0,
-        "winner": ""
-      }
-    ],
-    [
-      {
-        "teamName": "",
-        "teamA": [],
-        "teamB": [],
-        "pointsA": 0,
-        "pointsB": 0,
-        "winner": ""
-      }
-    ]
   ]
 }
