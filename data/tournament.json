@@ -340,6 +340,17 @@
       "losses": 0,
       "sinks": 0,
       "mines": 0
+    },
+    {
+      "teamName": "N/A",
+      "teamMembers": [
+        "Ricco",
+        "N/A"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
     }
   ],
   "rounds": [
