@@ -122,17 +122,6 @@
       "mines": 0
     },
     {
-      "teamName": "Till & Simon",
-      "teamMembers": [
-        "Till",
-        "Simon"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
       "teamName": "Skeltvedye",
       "teamMembers": [
         "Nanna",
@@ -147,7 +136,7 @@
       "teamName": "Bomb",
       "teamMembers": [
         "Tor",
-        "Raphael"
+        "Simon"
       ],
       "wins": 0,
       "losses": 0,
@@ -265,7 +254,7 @@
       "mines": 0
     },
     {
-      "teamName": "N/A",
+      "teamName": "Born to dye",
       "teamMembers": [
         "Laura",
         "Simone"
@@ -301,7 +290,7 @@
       "teamName": "Total Dyenimation",
       "teamMembers": [
         "Holger",
-        "N/A"
+        "Christian"
       ],
       "wins": 0,
       "losses": 0,
@@ -331,7 +320,7 @@
       "mines": 0
     },
     {
-      "teamName": "Name to come",
+      "teamName": "N/A",
       "teamMembers": [
         "Daniel",
         "Ricco"
@@ -342,7 +331,18 @@
       "mines": 0
     },
     {
-      "teamName": "Ricco‘s friends",
+      "teamName": "De fØLsomme drenge",
+      "teamMembers": [
+        "Niclas",
+        "Christoffer"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "sinks": 0,
+      "mines": 0
+    },
+    {
+      "teamName": "N/A",
       "teamMembers": [
         "N/A",
         "N/A"
