@@ -59,20 +59,6 @@
   </url>
   
   <url>
-    <loc>http://dyeislife.dk/en/season/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="http://dyeislife.dk/season/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://dyeislife.dk/en/season/"
-                />
-  </url>
-  
-  <url>
     <loc>http://dyeislife.dk/en/shop/</loc>
     <xhtml:link
                 rel="alternate"

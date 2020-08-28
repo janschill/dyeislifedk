@@ -73,20 +73,6 @@
   </url>
   
   <url>
-    <loc>http://dyeislife.dk/season/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://dyeislife.dk/en/season/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="http://dyeislife.dk/season/"
-                />
-  </url>
-  
-  <url>
     <loc>http://dyeislife.dk/tags/</loc>
     <xhtml:link
                 rel="alternate"
