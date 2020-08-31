@@ -8,11 +8,11 @@ objectPositionClass: "object-position-40"
 
 # Officiel Beer Die (Dye) Tietgenkollegiet Turnering
 
-## Timeline
+## Overview of the teams
 
-Here you can get an overview of all the events happening on the day with their approximate time slots. Please consult the game number you are playing in the [tournament bracket below](#tournament-bracket).
+This table is solemly to give an overview of all participants. Position 1 does not mean winner of the tournament.
 
-{{< timeline >}}
+{{< standings url="data/tournament.json" >}}
 
 ## Tournament bracket
 
@@ -32,8 +32,8 @@ One method of arranging a double-elimination tournament is to break the competit
 
 *Source: [Wikipedia](https://en.wikipedia.org/wiki/Double-elimination_tournament)*
 
-## Overview of the teams
+## Timeline
 
-This table is solemly to give an overview of all participants. Position 1 does not mean winner of the tournament.
+Here you can get an overview of all the events happening on the day with their approximate time slots. Please consult the game number you are playing in the [tournament bracket below](#tournament-bracket).
 
-{{< standings url="data/tournament.json" >}}
+{{< timeline >}}
