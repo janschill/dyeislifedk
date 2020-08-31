@@ -6,10 +6,8 @@
         "Laurits",
         "Mads"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 3,
+      "losses": 2
     },
     {
       "teamName": "Les deux merveilles",
@@ -18,9 +16,7 @@
         "Theo"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "ErruDyeEllaHvad",
@@ -29,20 +25,16 @@
         "Daniel"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
-      "teamName": "Gøl & Fogh",
+      "teamName": "Long Arms",
       "teamMembers": [
         "Frederik",
         "Rasmus"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 2,
+      "losses": 2
     },
     {
       "teamName": "RAM RANCH",
@@ -51,9 +43,7 @@
         "Nikolaj"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Jonads",
@@ -61,10 +51,8 @@
         "Jon",
         "Mads"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 3,
+      "losses": 2
     },
     {
       "teamName": "Dye Hard 2: Dye Harder",
@@ -72,10 +60,8 @@
         "Gustav",
         "Niklas"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 2,
+      "losses": 2
     },
     {
       "teamName": "dye martini",
@@ -83,10 +69,8 @@
         "Karl",
         "Hans"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 6,
+      "losses": 0
     },
     {
       "teamName": "Dyelai Lama",
@@ -94,10 +78,8 @@
         "Jan",
         "William"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 7,
+      "losses": 2
     },
     {
       "teamName": "Dice Dice Baby",
@@ -106,9 +88,7 @@
         "Astrid"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Seb et Seb",
@@ -117,9 +97,7 @@
         "Sebastian"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Skeltvedye",
@@ -127,10 +105,8 @@
         "Kasper",
         "Sebastian"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "Bomb",
@@ -138,10 +114,8 @@
         "Tor",
         "Simon"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "Live hard, DYE trying",
@@ -149,10 +123,8 @@
         "Asger",
         "Jonathan"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 3,
+      "losses": 2
     },
     {
       "teamName": "Et godt navn",
@@ -160,10 +132,8 @@
         "Sara",
         "Emil"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "High Rollers",
@@ -172,9 +142,7 @@
         "Danny"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "BFT’s finest",
@@ -182,10 +150,8 @@
         "Frederik",
         "Rasmus"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 4,
+      "losses": 2
     },
     {
       "teamName": "Live or dye trying",
@@ -193,10 +159,8 @@
         "Jonas",
         "Jakob"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "Formand Emeritus",
@@ -205,9 +169,7 @@
         "Thomas"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Bornholmer Flicka 🌞",
@@ -215,10 +177,8 @@
         "Signe",
         "Katrine"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "Gaucho Glue 🖐🏻🤠",
@@ -226,10 +186,8 @@
         "Viktor",
         "Lando"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 4,
+      "losses": 2
     },
     {
       "teamName": "Scotch Bonnet Bois",
@@ -237,10 +195,8 @@
         "Christian",
         "Jean"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "NevaLost!",
@@ -248,10 +204,8 @@
         "Rasmus",
         "Nikolaj"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 4,
+      "losses": 2
     },
     {
       "teamName": "Born to dye",
@@ -259,10 +213,8 @@
         "Laura",
         "Simone"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "Hold farten",
@@ -270,10 +222,8 @@
         "Jonathan",
         "Mathias"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 3,
+      "losses": 2
     },
     {
       "teamName": "Dyenamite",
@@ -281,10 +231,8 @@
         "Tom",
         "Jessica"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "Total Dyenimation",
@@ -292,10 +240,8 @@
         "Holger",
         "Christian"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 3,
+      "losses": 2
     },
     {
       "teamName": "Dye of the Tiger 🐯",
@@ -304,9 +250,7 @@
         "Erik"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Fry up",
@@ -314,10 +258,8 @@
         "Billy",
         "Will"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 4,
+      "losses": 2
     },
     {
       "teamName": "Dye Hard",
@@ -325,10 +267,8 @@
         "Daniel",
         "Ricco"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 2,
+      "losses": 2
     },
     {
       "teamName": "De fØLsomme drenge",
@@ -336,10 +276,8 @@
         "Niclas",
         "Christoffer"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 2,
+      "losses": 2
     },
     {
       "teamName": "Dyerrhea",
@@ -347,10 +285,8 @@
         "Harald",
         "Malthe"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 2,
+      "losses": 2
     }
   ]
 }
