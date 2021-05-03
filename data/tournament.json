@@ -1,26 +1,229 @@
 {
   "teams": [
     {
+      "teamName": "dye martini",
+      "teamMembers": [
+        "Karl",
+        "Hans"
+      ],
+      "wins": 6,
+      "losses": 0
+    },
+    {
+      "teamName": "Dyelai Lama",
+      "teamMembers": [
+        "Jan",
+        "William"
+      ],
+      "wins": 7,
+      "losses": 2
+    },
+    {
+      "teamName": "NevaLost!",
+      "teamMembers": [
+        "Rasmus",
+        "Nikolaj"
+      ],
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "teamName": "Gaucho Glue 🖐🏻🤠",
+      "teamMembers": [
+        "Viktor",
+        "Lando"
+      ],
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "teamName": "BFT’s finest",
+      "teamMembers": [
+        "Frederik",
+        "Rasmus"
+      ],
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "teamName": "Total Dyenimation",
+      "teamMembers": [
+        "Holger",
+        "Christian"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Fry up",
+      "teamMembers": [
+        "Billy",
+        "Will"
+      ],
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "teamName": "Hold farten",
+      "teamMembers": [
+        "Jonathan",
+        "Mathias"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Dyerrhea",
+      "teamMembers": [
+        "Harald",
+        "Malthe"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Jonads",
+      "teamMembers": [
+        "Jon",
+        "Mads"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Live hard, DYE trying",
+      "teamMembers": [
+        "Asger",
+        "Jonathan"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
       "teamName": "No time to die",
       "teamMembers": [
         "Laurits",
         "Mads"
       ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "De fØLsomme drenge",
+      "teamMembers": [
+        "Niclas",
+        "Christoffer"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Dye Hard",
+      "teamMembers": [
+        "Daniel",
+        "Ricco"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Dye Hard 2: Dye Harder",
+      "teamMembers": [
+        "Gustav",
+        "Niklas"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Long Arms",
+      "teamMembers": [
+        "Frederik",
+        "Rasmus"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Bomb",
+      "teamMembers": [
+        "Tor",
+        "Simon"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Born to dye",
+      "teamMembers": [
+        "Laura",
+        "Simone"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Bornholmer Flicka 🌞",
+      "teamMembers": [
+        "Signe",
+        "Katrine"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Dyenamite",
+      "teamMembers": [
+        "Tom",
+        "Jessica"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Et godt navn",
+      "teamMembers": [
+        "Sara",
+        "Emil"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Live or dye trying",
+      "teamMembers": [
+        "Jonas",
+        "Jakob"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Scotch Bonnet Bois",
+      "teamMembers": [
+        "Christian",
+        "Jean"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Skeltvedye",
+      "teamMembers": [
+        "Kasper",
+        "Sebastian"
+      ],
+      "wins": 1,
+      "losses": 2
     },
     {
       "teamName": "Les deux merveilles",
       "teamMembers": [
         "Alexandre",
-        "Eline"
+        "Theo"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "ErruDyeEllaHvad",
@@ -29,20 +232,7 @@
         "Daniel"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Gøl & Fogh",
-      "teamMembers": [
-        "Frederik",
-        "Rasmus"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "RAM RANCH",
@@ -51,53 +241,7 @@
         "Nikolaj"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Jonads",
-      "teamMembers": [
-        "Jon",
-        "Mads"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Dye Hard 2: Dye Harder",
-      "teamMembers": [
-        "Gustav",
-        "Niklas"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "dye martini",
-      "teamMembers": [
-        "Karl",
-        "Hans"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Dyelai Lama",
-      "teamMembers": [
-        "Jan",
-        "William"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Dice Dice Baby",
@@ -106,9 +250,7 @@
         "Astrid"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Seb et Seb",
@@ -117,64 +259,7 @@
         "Sebastian"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Till & Simon",
-      "teamMembers": [
-        "Till",
-        "Simon"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Skeltvedye",
-      "teamMembers": [
-        "Nanna",
-        "Stine"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Bomb",
-      "teamMembers": [
-        "Tor",
-        "Raphael"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Live hard, DYE trying",
-      "teamMembers": [
-        "Asger",
-        "Jonathan"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Et godt navn",
-      "teamMembers": [
-        "Sara",
-        "Emil"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "High Rollers",
@@ -183,31 +268,7 @@
         "Danny"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "BFT’s finest",
-      "teamMembers": [
-        "Frederik",
-        "Rasmus"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Live or dye trying",
-      "teamMembers": [
-        "Jonas",
-        "Jakob"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Formand Emeritus",
@@ -216,97 +277,7 @@
         "Thomas"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Bornholmer Flicka 🌞",
-      "teamMembers": [
-        "Signe",
-        "Katrine"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Gaucho Glue 🖐🏻🤠",
-      "teamMembers": [
-        "Viktor",
-        "Lando"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Scotch Bonnet Bois",
-      "teamMembers": [
-        "Christian",
-        "Jean"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "NevaLost!",
-      "teamMembers": [
-        "Rasmus",
-        "Nikolaj"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "N/A",
-      "teamMembers": [
-        "Laura",
-        "Simone"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Hold farten",
-      "teamMembers": [
-        "Jonathan",
-        "Mathias"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Dyenamite",
-      "teamMembers": [
-        "Tom",
-        "Jessica"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Total Dyenimation",
-      "teamMembers": [
-        "Holger",
-        "N/A"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     },
     {
       "teamName": "Dye of the Tiger 🐯",
@@ -315,42 +286,7 @@
         "Erik"
       ],
       "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Fry up",
-      "teamMembers": [
-        "Billy",
-        "Will"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Name to come",
-      "teamMembers": [
-        "Daniel",
-        "Ricco"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
-    },
-    {
-      "teamName": "Ricco‘s friends",
-      "teamMembers": [
-        "N/A",
-        "N/A"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "sinks": 0,
-      "mines": 0
+      "losses": 2
     }
   ]
 }
