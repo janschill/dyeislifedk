@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://dyeislife.dk/en/about/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="http://dyeislife.dk/en/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://dyeislife.dk/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="en"
                 href="http://dyeislife.dk/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://dyeislife.dk/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="en"
                 href="http://dyeislife.dk/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://dyeislife.dk/en/rulebook/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="en"
                 href="http://dyeislife.dk/en/rulebook/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://dyeislife.dk/en/shop/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,19 @@
                 hreflang="en"
                 href="http://dyeislife.dk/en/shop/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://dyeislife.dk/en/tournament/2021/signup/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="http://dyeislife.dk/tournament/2021/signup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dyeislife.dk/en/tournament/2021/signup/"
+                />
+  </url><url>
     <loc>http://dyeislife.dk/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +85,19 @@
                 hreflang="en"
                 href="http://dyeislife.dk/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://dyeislife.dk/en/tournament/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="http://dyeislife.dk/tournament/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dyeislife.dk/en/tournament/"
+                />
+  </url><url>
     <loc>http://dyeislife.dk/en/tournament/</loc>
     <xhtml:link
                 rel="alternate"
@@ -99,5 +110,4 @@
                 href="http://dyeislife.dk/en/tournament/"
                 />
   </url>
-  
 </urlset>
