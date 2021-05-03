@@ -5,6 +5,10 @@ subheader: "Butterfly and Butter Dye"
 hero: "videos/dyeislifedk-butterfly.mov"
 ---
 
+Welcome to dyeislife.dk your number one website for Dye content in Denmark. The next tournament is in planning sign up today to show your interest.
+
+{{< anchor href="/tournament/2021/signup" text="Go to sign up form" >}}
+
 {{< tiles
   topLeftTitle="Bordet"
   topLeftSubtitle="Røde brystvorter og en malet penis?"
