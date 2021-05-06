@@ -5,6 +5,8 @@ title = "Dyeislife.DK"
 theme = "dyeislifedk"
 [params]
   description = "The number one resource for your dyeislifedk content. Come along for information around tournaments, season games, merch and everything dyeislifedk related."
+  images = ["images/dyeislifedk-tietgenkollegiet-1.png"]
+
 
 [languages]
   [languages.en]
