@@ -1,4 +1,4 @@
-<section class="hero has-background {{ cond (eq .IsHome true) `is-large` `is-medium`}}">
+<section class="hero has-background {{ cond (eq .IsHome true) `is-fullheight` `is-medium`}}">
   {{ $url := printf "%s" .Params.Hero }}
   {{ if in $url "videos" }}
   <video playsinline autoplay loop muted class="hero-background is-transparent"
