@@ -1,5 +1,5 @@
 ---
-title: 'Tournament'
+title: '2020 | Tournament'
 header: 'Tournament'
 subheader: 'I Just Dyed In Your Arms'
 hero: "images/dyeislifedk-tietgenkollegiet-7.jpg"

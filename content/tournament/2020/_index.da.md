@@ -1,5 +1,5 @@
 ---
-title: 'Turnering'
+title: '2020 | Turnering'
 header: 'Turnering'
 subheader: 'I Just Dyed In Your Arms'
 hero: "images/dyeislifedk-tietgenkollegiet-7.jpg"

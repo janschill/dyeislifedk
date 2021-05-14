@@ -1,8 +1,8 @@
 ---
-title: '2021'
+title: '2021 | Turnering'
 header: '2021'
 subheader: 'Stay put'
-hero: "images/dyeislifedk-tietgenkollegiet-7.jpg"
+hero: "/images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020.jpeg"
 objectPositionClass: "object-position-40"
 ---
 
