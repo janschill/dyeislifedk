@@ -1,6 +1,6 @@
 ---
 title: '2020 | Tournament'
-header: 'Tournament'
+header: '2020 | Tournament'
 subheader: 'I Just Dyed In Your Arms'
 hero: "images/dyeislifedk-tietgenkollegiet-7.jpg"
 objectPositionClass: "object-position-40"
