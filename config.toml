@@ -1,7 +1,7 @@
 defaultContentLanguage = "da"
 publishDir = "docs"
 baseURL = "http://dyeislife.dk/"
-title = "Dyeislife.DK"
+title = "dyeislife.dk"
 theme = "dyeislifedk"
 [params]
   description = "The number one resource for your dyeislifedk content. Come along for information around tournaments, season games, merch and everything dyeislifedk related."
