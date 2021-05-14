@@ -10,8 +10,12 @@
     {{ partial "header.html" . }}
     {{ end }}
 
-    <div id="content" class="">
+    <div id="content">
+        <section class="section">
+          <article class="container content">
         {{ block "main" . }}{{ end }}
+            </article>
+        </section>
     </div>
     {{ partial "footer.html" . }}
 </body>
