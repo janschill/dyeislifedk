@@ -1,6 +1,6 @@
 defaultContentLanguage = "da"
 publishDir = "docs"
-baseURL = "http://dyeislife.dk/"
+baseURL = "https://dyeislife.dk/"
 title = "dyeislife.dk"
 theme = "dyeislifedk"
 [params]
