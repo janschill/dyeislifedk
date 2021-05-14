@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://dyeislife.dk/en/tournament/2020/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="http://dyeislife.dk/tournament/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dyeislife.dk/en/tournament/2020/"
+                />
+  </url><url>
+    <loc>http://dyeislife.dk/en/tournament/2021/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="http://dyeislife.dk/tournament/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://dyeislife.dk/en/tournament/2021/"
+                />
+  </url><url>
     <loc>http://dyeislife.dk/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,18 +108,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://dyeislife.dk/en/tags/"
-                />
-  </url><url>
-    <loc>http://dyeislife.dk/en/tournament/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="http://dyeislife.dk/tournament/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://dyeislife.dk/en/tournament/"
                 />
   </url><url>
     <loc>http://dyeislife.dk/en/tournament/</loc>
