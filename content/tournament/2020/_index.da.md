@@ -6,11 +6,11 @@ hero: "images/dyeislifedk-tietgenkollegiet-7.jpg"
 objectPositionClass: "object-position-40"
 ---
 
-# Officiel Beer Die (Dye) Tietgenkollegiet Turnering
+# 2020 Officiel Beer Die (Dye) Tietgenkollegiet Turnering
 
 ## Overview of the teams
 
-{{< standings url="data/tournament.json" >}}
+{{< standings url="data/tournament-2020.json" >}}
 
 ## Tournament bracket
 

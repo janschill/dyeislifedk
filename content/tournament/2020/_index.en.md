@@ -6,11 +6,11 @@ hero: "images/dyeislifedk-tietgenkollegiet-7.jpg"
 objectPositionClass: "object-position-40"
 ---
 
-# Official Beer Die (Dye) Tietgenkollegiet Tournament
+# 2020 Official Beer Die (Dye) Tietgenkollegiet Tournament
 
 ## Overview of the teams
 
-{{< standings url="data/tournament.json" >}}
+{{< standings url="data/tournament-2020.json" >}}
 
 ## Tournament bracket
 
