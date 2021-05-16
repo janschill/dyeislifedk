@@ -18,194 +18,28 @@
       "wins": 0,
       "losses": 0
     },
-    {
-      "teamName": "14x",
-      "teamMembers": [
-        "Maria",
-        "Alberte"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Dye another day",
-      "teamMembers": [
-        "Anders",
-        "Emil"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Marry rich or dye trying ",
-      "teamMembers": [
-        "Petrea",
-        "Anna"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Placeholder (no name yet) ",
-      "teamMembers": [
-        "Gitte",
-        "Sofia"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "The DYEnamic duo",
-      "teamMembers": [
-        "Henriette",
-        "Sara"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "",
-      "teamMembers": [
-        "Mikkel",
-        "Rikke"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Dyelicious ",
-      "teamMembers": [
-        "Jakob",
-        "Rasmus"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Dyenamos",
-      "teamMembers": [
-        "Lauren",
-        "Megan"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Dye 'N' Knight",
-      "teamMembers": [
-        "Tor",
-        "Søren"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Dyegestive",
-      "teamMembers": [
-        "Holger",
-        "Mads"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Kobe Dyeant",
-      "teamMembers": [
-        "Jean",
-        "Taha"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "WOLOLO",
-      "teamMembers": [
-        "Ricco",
-        "Daniel"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "The Cosmic Duo",
-      "teamMembers": [
-        "Andreas",
-        "Astrid"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "TBA",
-      "teamMembers": [
-        "Öykü",
-        "Daniel"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Formand Emeritus",
-      "teamMembers": [
-        "Mads",
-        "Thomas"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Tietgens Tigermissere",
-      "teamMembers": [
-        "Emma",
-        "Kiki"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Die’n’louie",
-      "teamMembers": [
-        "Alexandre",
-        "Billy"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "BS 11/12",
-      "teamMembers": [
-        "Frederik",
-        "Søren"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Jonads",
-      "teamMembers": [
-        "Jon",
-        "Mads"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Sheeeeesh brors",
-      "teamMembers": [
-        "Milad",
-        "Niklas"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Dye Hard 2: Dye Harder",
-      "teamMembers": [
-        "Gustav",
-        "TBA"
-      ],
-      "wins": 0,
-      "losses": 0
-    }
+    {"teamName": "Dyerates of the Caribbean", "teamMembers": ["Anton", "William"], "wins": 0, "losses": 0},
+{"teamName": "Try Hard or Dye Trying", "teamMembers": ["Christian", "Niclas"], "wins": 0, "losses": 0},
+{"teamName": "14x", "teamMembers": ["Maria", "Alberte"], "wins": 0, "losses": 0},
+{"teamName": "Dye another day", "teamMembers": ["Anders", "Emil"], "wins": 0, "losses": 0},
+{"teamName": "Marry rich or dye trying ", "teamMembers": ["Petrea", "Anna"], "wins": 0, "losses": 0},
+{"teamName": "", "teamMembers": ["Gitte", "Sofia"], "wins": 0, "losses": 0},
+{"teamName": "The DYEnamic duo", "teamMembers": ["Henriette", "Sara"], "wins": 0, "losses": 0},
+{"teamName": "", "teamMembers": ["Mikkel", "Rikke"], "wins": 0, "losses": 0},
+{"teamName": "Dyelicious ", "teamMembers": ["Jakob", "Rasmus"], "wins": 0, "losses": 0},
+{"teamName": "Dyenamos", "teamMembers": ["Lauren", "Megan"], "wins": 0, "losses": 0},
+{"teamName": "Dye 'N' Knight", "teamMembers": ["Tor", "Søren"], "wins": 0, "losses": 0},
+{"teamName": "Dyegestive", "teamMembers": ["Holger", "Mads"], "wins": 0, "losses": 0},
+{"teamName": "Kobe Dyeant", "teamMembers": ["Jean", "Taha"], "wins": 0, "losses": 0},
+{"teamName": "WOLOLO", "teamMembers": ["Ricco", "Daniel"], "wins": 0, "losses": 0},
+{"teamName": "The Cosmic Duo", "teamMembers": ["Andreas", "Astrid"], "wins": 0, "losses": 0},
+{"teamName": "", "teamMembers": ["Öykü", "Daniel"], "wins": 0, "losses": 0},
+{"teamName": "Formand Emeritus", "teamMembers": ["Mads", "Thomas"], "wins": 0, "losses": 0},
+{"teamName": "Tietgens Tigermissere", "teamMembers": ["Emma", "Kiki"], "wins": 0, "losses": 0},
+{"teamName": "Die’n’louie", "teamMembers": ["Alexandre", "Billy"], "wins": 0, "losses": 0},
+{"teamName": "BS 11/12", "teamMembers": ["Frederik", "Søren"], "wins": 0, "losses": 0},
+{"teamName": "Jonads", "teamMembers": ["Jon", "Mads"], "wins": 0, "losses": 0},
+{"teamName": "Sheeeeesh brors", "teamMembers": ["Milad", "Niklas"], "wins": 0, "losses": 0},
+{"teamName": "Dye Hard 2: Dye Harder", "teamMembers": ["Gustav", "TBA"], "wins": 0, "losses": 0}
   ]
 }
