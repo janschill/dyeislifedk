@@ -18,5 +18,5 @@ git add .
 git commit -m "Adding generated files"
 
 # Push source and build repos.
-git push origin master
+git push origin main
 
