@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @tournament.title %>
+</p>
+
+<p>
+  <strong>City:</strong>
+  <%= @tournament.city %>
+</p>
+
+<p>
+  <strong>Start date:</strong>
+  <%= @tournament.start_date %>
+</p>
+
+<p>
+  <strong>End date:</strong>
+  <%= @tournament.end_date %>
+</p>
+
+<p>
+  <strong>Challonge tournament:</strong>
+  <%= @tournament.challonge_tournament_id %>
+</p>
+
+<p>
+  <strong>Signup end date:</strong>
+  <%= @tournament.signup_end_date %>
+</p>
+
+<%= link_to 'Edit', edit_tournament_path(@tournament) %> |
+<%= link_to 'Back', tournaments_path %>

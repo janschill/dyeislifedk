@@ -15,4 +15,25 @@ ActiveRecord::Schema.define(version: 0) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
+  create_table "teams", force: :cascade do |t|
+    t.string "name"
+    t.string "email_address"
+    t.string "player_name_1"
+    t.string "player_name_2"
+    t.datetime "payed_fee_at"
+    t.string "challonge_team_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "tournaments", force: :cascade do |t|
+    t.string "title"
+    t.string "city"
+    t.datetime "start_date"
+    t.datetime "end_date"
+    t.string "challonge_tournament_id"
+    t.datetime "signup_end_date"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
 end

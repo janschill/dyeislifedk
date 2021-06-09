@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @team.name %>
+</p>
+
+<p>
+  <strong>Email address:</strong>
+  <%= @team.email_address %>
+</p>
+
+<p>
+  <strong>Player name 1:</strong>
+  <%= @team.player_name_1 %>
+</p>
+
+<p>
+  <strong>Player name 2:</strong>
+  <%= @team.player_name_2 %>
+</p>
+
+<p>
+  <strong>Payed fee at:</strong>
+  <%= @team.payed_fee_at %>
+</p>
+
+<p>
+  <strong>Challonge team:</strong>
+  <%= @team.challonge_team_id %>
+</p>
+
+<p>
+  <strong>Belongs to:</strong>
+  <%= @team.belongs_to %>
+</p>
+
+<%= link_to 'Edit', edit_team_path(@team) %> |
+<%= link_to 'Back', teams_path %>
