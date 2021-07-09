@@ -9,11 +9,10 @@
     {{ else }}
     {{ partial "header.html" . }}
     {{ end }}
-
     <div id="content">
         <section class="section">
-          <article class="container content">
-        {{ block "main" . }}{{ end }}
+            <article class="container content">
+                {{ block "main" . }}{{ end }}
             </article>
         </section>
     </div>

@@ -5,22 +5,28 @@ subheader: "Butterfly and Butter Dye"
 hero: "videos/dyeislifedk-butterfly.mov"
 ---
 
-Welcome to dyeislife.dk your number one website for Dye content in Denmark. The next tournament is in planning sign up today to show your interest.
-
-{{< anchor href="/tournament/2021/signup" text="Go to sign up form" >}}
-
-{{< tiles
-  topLeftTitle="Bordet"
-  topLeftSubtitle="Røde brystvorter og en malet penis?"
-  topLeftImageURL="images/dyeislifedk-tietgenkollegiet-table.jpg"
-  middleTitle="Hvis ben er dette?"
-  middleSubtitle="Afsløret i vores nye PodDyeCast."
-  middleImageURL="images/dyeislifedk-dye-tattoo-karl.jpg"
-  bottomTitle="Turnering"
-  bottomSubtitle="Dye Hard"
-  bottomContent="Den mest omtalte sportsbegivenhed i 2021 finder sted i august i Tietgenkollegiet-cirklen. Tilmeld dig nu på Facebook – hvis du ikke allerede har modtaget en invitation, så er du nok ikke inviteret."
-  rightTitle="Regelsæt"
-  rightSubtitle="You better check yourself"
-  rightContent="Nøgenløb? Minen? At kaste en terning 4 meter op i luften? Sørg for at du forstår alle reglerne, før du kaster dig ud i spillet og ender med at løbe nøgen rundt om Tietgenkollegiet."
-  rightImageURL="images/dyeislifedk-dye-okyu-jan-ruleset.jpg"
+{{< section-text
+  title="Welcome to dyeislife.dk"
+  body=`
+    Butterfly and Butter Dye. This is your number one place for Dye content in Denmark. We are organizing and hosting tournaments, have a web shop coming soon, and all the rules you need to know to play the game of Dye. Check out the signup page for more information to this year’s Dye tournament.
+  `
+  link="/tournament/2021/signup/"
+  linkText="go to tournament signup"
 >}}
+
+{{< section-two-image imageUrlA="images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-neva_lost.jpg" imageAltA="NevaLost running to catch a dice." imageUrlB="images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-long_arms.jpg" imageAltB="Team Long Arms with beautiful tossing form." >}}
+
+{{< section-tournament >}}
+
+{{< section-video url="videos/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-dyelai_lama-against-wololo" >}}
+
+{{< section-text
+  title="Rules"
+  body=`
+    Not sure how to play Dye? We have an extensive page with all the rules. There are some specific ones that we like to play by, so make sure to check them out and maybe even define your own house rules – up to you.
+  `
+  link="/rulebook/"
+  linkText="go to Rules"
+>}}
+
+{{< section-image imageUrl="images/dyeislifedk-tietgenkollegiet-first-game-of-the-year.jpg" imageAlt="The sun setting over Tietgenkollegiet with Dye players having fun." >}}

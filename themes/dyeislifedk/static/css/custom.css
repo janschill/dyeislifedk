@@ -1,3 +1,33 @@
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/cabin-v18-latin-regular.eot');
+  src: local(''),
+       url('../fonts/cabin-v18-latin-regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/cabin-v18-latin-regular.woff2') format('woff2'),
+       url('../fonts/cabin-v18-latin-regular.woff') format('woff'),
+       url('../fonts/cabin-v18-latin-regular.ttf') format('truetype'),
+       url('../fonts/cabin-v18-latin-regular.svg#Cabin') format('svg');
+}
+
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/cabin-v18-latin-700.eot');
+  src: local(''),
+       url('../fonts/cabin-v18-latin-700.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/cabin-v18-latin-700.woff2') format('woff2'),
+       url('../fonts/cabin-v18-latin-700.woff') format('woff'),
+       url('../fonts/cabin-v18-latin-700.ttf') format('truetype'),
+       url('../fonts/cabin-v18-latin-700.svg#Cabin') format('svg');
+}
+
+* {
+  font-family: 'Cabin', Helvetica, sans-serif;
+}
+
 .hero.has-background {
   position: relative;
   overflow: hidden;
@@ -182,4 +212,105 @@ li.game-bottom {
 
 .timeline .timeline-item .timeline-content .heading {
   font-weight: bold;
+}
+
+.section-video,
+.section-image,
+.section-two-image,
+.section-text {
+  position: relative;
+  padding: 20px 0;
+  margin: 40px 0;
+}
+
+@media all and (max-width: 875px) {
+  .hero .hero-background.section-video__video {
+    object-position: 40% center;
+  }
+}
+
+@media all and (min-width: 800px) {
+  .section-two-image {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.section-two-image__image {
+  width: 100%;
+  height: 65vh;
+  object-fit: cover;
+}
+
+@media all and (min-width: 800px) {
+  .section-two-image__image {
+    width: 49%;
+    height: 100vh;
+  }
+}
+
+.section-text {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.section-text__title {
+  font-size: 2.25rem !important;
+}
+
+.section-text__body {
+  margin: 0 auto;
+}
+
+@media all and (min-width: 875px) {
+  .section-text__body {
+    max-width: 900px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .section-text__article {
+    width: 68%;
+  }
+
+  .section-text__aside {
+    width: 28%;
+  }
+}
+
+.section-text__link {
+  position: absolute;
+  right: 0;
+  bottom: -10px;
+  font-size: 1.25rem;
+  color: rgb(54, 54, 54);
+  font-weight: bold;
+}
+
+.section-text__link::hover .section-text__link::after {
+  transform: translateX(5px);
+}
+
+.section-text__link::after {
+  content: '>';
+  padding: 0 5px;
+}
+
+.table__definition {
+  border: none !important;
+  padding: 0 0.55em !important;
+}
+
+@media all and (min-width: 875px) {
+  .table__definition {
+    text-align: right !important;
+  }
+}
+
+.table__definition--bold {
+  font-weight: bold;
+}
+
+.button--margins {
+  margin: 10px 0;
 }
