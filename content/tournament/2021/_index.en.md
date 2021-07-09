@@ -8,8 +8,10 @@ objectPositionClass: "object-position-40"
 
 # 2021 Official Beer Die (Dye) Tietgenkollegiet Tournament
 
-The sign up for this year’s tournament is still **open**. Sign up [here]({{< ref "tournament/2021/signup" >}} "here"). More information to come. Dye up!
+The sign up for this year’s tournament is still **open**, but only a few spots are left. Sign up [here]({{< ref "tournament/2021/signup" >}} "here") and follow the instructions in the email sent to you to pay for your entry.
 
-## Overview of the teams
+If you have not yet joined the Facebook event do so by going to https://fb.me/e/OW9549aW.
+
+## Overview of the Teams
 
 {{< standings url="data/tournament-2021.json" >}}
