@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Bankers & Wankers",
+      "teamMembers": [
+        "William",
+        "Peter"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "Average Joe’s",
       "teamMembers": [
         "Johann",
