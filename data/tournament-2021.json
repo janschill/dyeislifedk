@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "",
+      "teamMembers": [
+        "Bjorn",
+        "Giuseppe"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "Bouillon",
       "teamMembers": [
         "Jonathan",
