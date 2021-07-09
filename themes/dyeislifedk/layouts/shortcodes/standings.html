@@ -11,6 +11,7 @@
         <th>Losses</th>
         <th>Player</th>
         <th>Player</th>
+        <th>Paid</th>
       </tr>
     </thead>
     <tbody>
@@ -22,6 +23,7 @@
         <td>{{ $team.losses }}</td>
         <td>{{ index (sort $team.teamMembers) 0 }}</td>
         <td>{{ index (sort $team.teamMembers) 1 }}</td>
+        <td>{{ $team.hasPaid }}</td>
       </tr>
       {{ end }}
     </tbody>
