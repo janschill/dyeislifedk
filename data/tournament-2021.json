@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Average Joe’s",
+      "teamMembers": [
+        "Johann",
+        "Jakob"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "Lady Dye 👑",
       "teamMembers": [
         "Laura",
