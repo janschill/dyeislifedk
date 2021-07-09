@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Solvers",
+      "teamMembers": [
+        "Henrik",
+        "Sophus"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "",
       "teamMembers": [
         "Bjorn",
