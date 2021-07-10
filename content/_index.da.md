@@ -21,7 +21,7 @@ hero: "videos/dyeislifedk-butterfly.mov"
 {{< section-video url="videos/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-dyelai_lama-against-wololo" >}}
 
 {{< section-text
-  title="Rules"
+  title="Regelsæt"
   body=`
     Ikke sikker på, hvordan du spiller Dye? Vi har en omfattende side med alle regler. Der er nogle specifikke, som vi kan lide at spille efter, så sørg for at tjekke dem ud og måske endda definere dine egne husregler - op til dig.
   `

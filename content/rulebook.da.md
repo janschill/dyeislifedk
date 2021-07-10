@@ -10,7 +10,7 @@ objectPositionClass: "object-position-69"
 
 Beer die (Dye) spilles som så mange andre ølspil på tusindevis af forskellige måder. Det følgende er holdet bag dyeislife.dk’s foretrukne regler, som vi anbefaler alle at spille efter. Dye Up!
 
-## How to play in video
+## How to Play in Video
 
 {{< video >}}
 
