@@ -23,7 +23,7 @@ hero: "videos/dyeislifedk-butterfly.mov"
 {{< section-text
   title="Rules"
   body=`
-    Not sure how to play Dye? We have an extensive page with all the rules. There are some specific ones that we like to play by, so make sure to check them out and maybe even define your own house rules – up to you.
+    Ikke sikker på, hvordan du spiller Dye? Vi har en omfattende side med alle regler. Der er nogle specifikke, som vi kan lide at spille efter, så sørg for at tjekke dem ud og måske endda definere dine egne husregler - op til dig.
   `
   link="/rulebook/"
   linkText="go to Rules"
