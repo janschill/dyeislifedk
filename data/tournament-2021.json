@@ -268,7 +268,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Neva'Lost!",
@@ -391,7 +391,7 @@
       "hasPaid": "❌"
     },
     {
-      "teamName": "Dyelicious ",
+      "teamName": "Dyelicious",
       "teamMembers": [
         "Jakob",
         "Rasmus"
