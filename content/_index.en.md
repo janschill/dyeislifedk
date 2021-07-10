@@ -8,7 +8,7 @@ hero: "videos/dyeislifedk-butterfly.mov"
 {{< section-text
   title="Welcome to dyeislife.dk"
   body=`
-    Butterfly and Butter Dye. This is your number one place for Dye content in Denmark. We are organizing and hosting tournaments, have a web shop coming soon, and all the rules you need to know to play the game of Dye. Check out the signup page for more information to this year’s Dye tournament.
+    Butterfly and Butter Dye. This is your number one place for Dye content in Denmark. We organize and host tournaments, have a web shop coming soon, and have all the rules you need to know to play the game of Dye. Check out the signup page for more information to this year’s Dye tournament.
   `
   link="tournament/2021/signup/"
   linkText="go to tournament signup"
