@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Hej med dye",
+      "teamMembers": [
+        "Rolf",
+        "Tobias"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
       "teamName": "Bankers & Wankers",
       "teamMembers": [
         "William",
@@ -128,7 +138,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Dyennis Rommedahl",
