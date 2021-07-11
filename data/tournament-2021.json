@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Det Johnson Baby!",
+      "teamMembers": [
+        "Emik",
+        "Marcus"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "Mike Dyeson",
       "teamMembers": [
         "Aksel",
