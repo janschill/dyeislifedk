@@ -138,7 +138,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "WinDyeOrDyeTrying",
@@ -308,7 +308,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Skille Ma’sink’ing Duo",
@@ -488,7 +488,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "",
@@ -568,7 +568,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     }
   ]
 }
