@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "",
+      "teamMembers": [
+        "Anna",
+        "Ida"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "Det Johnson Baby!",
       "teamMembers": [
         "Emil",
@@ -288,7 +298,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Dyearria",
