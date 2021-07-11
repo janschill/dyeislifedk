@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Mike Dyeson",
+      "teamMembers": [
+        "Aksel",
+        "Maks"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
       "teamName": "Hej med dye",
       "teamMembers": [
         "Rolf",
