@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Live and let Dye",
+      "teamMembers": [
+        "Thomas",
+        "Kristian"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "",
       "teamMembers": [
         "Anna",
