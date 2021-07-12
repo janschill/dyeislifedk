@@ -20,7 +20,7 @@ Playing against team “Jonads”? Don‘t know who it is? Check out the [overvi
 
 This bracket is a preview and **subject to change** until the tournament is started.
 
-{{< challonge >}}
+{{< challonge url="dyeislife" >}}
 
 ### Double Elimination
 
