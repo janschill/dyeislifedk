@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Dye Hard",
+      "teamMembers": [
+        "Marcus",
+        "Kim"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
       "teamName": "",
       "teamMembers": [
         "Nasra",
@@ -428,7 +438,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Live fast, dye young",
