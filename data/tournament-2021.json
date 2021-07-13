@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Ride or Dye",
+      "teamMembers": [
+        "Morten",
+        "Kasper"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
       "teamName": "Dye Hard",
       "teamMembers": [
         "Marcus",
@@ -178,7 +188,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Det er ikke dye, det er mig.",
@@ -198,7 +208,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "H.O. Langes helte",
