@@ -21,6 +21,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Flæskesdye",
+      "teamMembers": [
+        "Fabian",
+        "Christian"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "❌"
+    },
+    {
       "teamName": "Ride or Dye",
       "teamMembers": [
         "Morten",
