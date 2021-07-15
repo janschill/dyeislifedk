@@ -31,6 +31,16 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Dyeqiri",
+      "teamMembers": [
+        "Roman",
+        "Bitty"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
       "teamName": "Ride or Dye",
       "teamMembers": [
         "Morten",
