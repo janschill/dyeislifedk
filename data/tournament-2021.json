@@ -21,6 +21,36 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Flæskesdye",
+      "teamMembers": [
+        "Fabian",
+        "Christian"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
+      "teamName": "Dyeqiri",
+      "teamMembers": [
+        "Roman",
+        "Bitty"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
+      "teamName": "Ride or Dye",
+      "teamMembers": [
+        "Morten",
+        "Kasper"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
       "teamName": "Dye Hard",
       "teamMembers": [
         "Marcus",
@@ -178,7 +208,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Det er ikke dye, det er mig.",
@@ -198,7 +228,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "H.O. Langes helte",
@@ -278,7 +308,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "Tuds Dyelings",
@@ -299,16 +329,6 @@
       "wins": 0,
       "losses": 0,
       "hasPaid": "✅"
-    },
-    {
-      "teamName": "StreetBeefs",
-      "teamMembers": [
-        "Joshua",
-        "Rasmus"
-      ],
-      "wins": 0,
-      "losses": 0,
-      "hasPaid": "❌"
     },
     {
       "teamName": "Dyes before guys",
@@ -378,7 +398,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": " ",
@@ -408,7 +428,7 @@
       ],
       "wins": 0,
       "losses": 0,
-      "hasPaid": "❌"
+      "hasPaid": "✅"
     },
     {
       "teamName": "14x",
