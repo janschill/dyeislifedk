@@ -21,6 +21,36 @@
       "hasPaid": "✅"
     },
     {
+      "teamName": "Speziale",
+      "teamMembers": [
+        "Till",
+        "Simon"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
+      "teamName": "Dye save the Queen",
+      "teamMembers": [
+        "Signe",
+        "Sebastian"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
+      "teamName": "Dyenamite",
+      "teamMembers": [
+        "Simone",
+        "Steffen"
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
       "teamName": "Flæskesdye",
       "teamMembers": [
         "Fabian",
