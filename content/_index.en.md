@@ -8,10 +8,10 @@ hero: "videos/dyeislifedk-butterfly.mov"
 {{< section-text
   title="Welcome to dyeislife.dk"
   body=`
-    Butterfly and Butter Dye. This is your number one place for Dye content in Denmark. We organize and host tournaments, have a web shop coming soon, and have all the rules you need to know to play the game of Dye. Check out the signup page for more information to this year’s Dye tournament.
+    Butterfly and Butter Dye. This is your number one place for Dye content in Denmark. We organize and host tournaments, have a web shop coming soon, and have all the rules you need to know to play the game of Dye. Check out the tournament page for more information to this year’s Dye tournament.
   `
-  link="tournament/2021/signup/"
-  linkText="go to tournament signup"
+  link="tournament/2021/"
+  linkText="go to tournament"
 >}}
 
 {{< section-two-image imageUrlA="/images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-neva_lost.jpg" imageAltA="NevaLost running to catch a dice." imageUrlB="/images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-long_arms.jpg" imageAltB="Team Long Arms with beautiful tossing form." >}}

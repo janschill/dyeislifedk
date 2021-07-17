@@ -12,4 +12,4 @@ After a huge success of the first Dye tournament in 2020 we are back to bring yo
 
 If you have not yet joined the Facebook event do so by going to https://fb.me/e/OW9549aW.
 
-{{< signup >}}
+<!-- {{< signup >}} -->
