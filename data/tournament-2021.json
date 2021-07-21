@@ -23,6 +23,16 @@
     {
       "teamName": "",
       "teamMembers": [
+        "Anders",
+        ""
+      ],
+      "wins": 0,
+      "losses": 0,
+      "hasPaid": "✅"
+    },
+    {
+      "teamName": "",
+      "teamMembers": [
         "Daniel",
         ""
       ],
