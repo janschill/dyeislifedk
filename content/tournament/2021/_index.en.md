@@ -8,18 +8,32 @@ objectPositionClass: "object-position-40"
 
 # 2021 Official Beer Die (Dye) Tietgenkollegiet Tournament
 
-If you have not yet joined the Facebook event do so by going to https://fb.me/e/OW9549aW.
+## Quicklinks
+
+{{< quicklinks >}}
+
+## Bracket
+
+This bracket is a preview and subject to change. **The final bracket will be announced on the 13th of August**.
+
+{{< challonge url="dyeislifedk2021" >}}
+
+## Timeline
+
+{{< timeline >}}
 
 ## Overview of the Teams
 
 {{< standings url="data/tournament-2021.json" >}}
 
-## Tournament bracket
+## Layout of the Tables
 
-The tournament bracket will be announced as soon as all teams have registered. We will play a **Double Elimination Tourney**, which means every team starts in bracket A. When they lose a game, they move to bracket B and have another chance of reaching the final. If you lose a game in bracket B you are out. More information [below](#double-elimination).
+![image alt text](/images/dyeislifedk-tietgenkollegiet-tournament-2021-layout-tables.svg)
 
-Playing against team “Jonads”? Don‘t know who it is? Check out the [overview](#overview-of-the-teams) of all teams at the bottom of the page.
+## Double Elimination
 
-This bracket is a preview and **subject to change** until the tournament is started.
+“A **double-elimination tournament** is a type of elimination tournament competition in which a participant ceases to be eligible to win the tournament's championship upon having lost two games or matches. It stands in contrast to a single-elimination tournament, in which only one defeat results in elimination.
 
-{{< challonge url="dyeislifedk2021" >}}
+One method of arranging a double-elimination tournament is to break the competitors into two sets of brackets, the winners bracket and losers bracket (W and L brackets for short; also sometimes upper bracket and lower bracket, respectively) after the first round. The first-round winners proceed into the W bracket and the losers proceed into the L bracket. The W bracket is conducted in the same manner as a single-elimination tournament, except that the losers of each round "drop down" into the L bracket.”
+
+*Source: [Wikipedia](https://en.wikipedia.org/wiki/Double-elimination_tournament)*
