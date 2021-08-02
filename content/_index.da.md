@@ -2,7 +2,7 @@
 title: "Hjem"
 header: "dyeislifedk"
 subheader: "Butterfly and Butter Dye"
-hero: "videos/dyeislifedk-butterfly.mov"
+hero: "videos/dyeislife-promo-video-2021-no_audio.mp4"
 ---
 
 {{< section-text
