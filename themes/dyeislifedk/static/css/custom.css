@@ -49,12 +49,6 @@
   object-position: 0 69%;
 }
 
-@media all and (max-width: 1400px) {
-  .hero .hero-background {
-    object-position: 80% center;
-  }
-}
-
 .hero .media-overlay {
   position: absolute;
   top: 0;
