@@ -96,170 +96,85 @@
 <h1 id="2021-official-beer-die-dye-tietgenkollegiet-tournament">2021 Official Beer Die (Dye) Tietgenkollegiet Tournament</h1>
 <h2 id="quicklinks">Quicklinks</h2>
 <div class="quicklinks">
-  <a href="#bracket" class="button">Bracket</a>
-  <a href="#timeline" class="button">Timeline</a>
-  <a href="#overview-of-the-teams" class="button">Overview of the Teams</a>
-  <a href="#layout-of-the-tables" class="button">Layout of the Tables</a>
-  <a href="#double-elimination" class="button">Double Elimination</a>
+  <a href="#bracket" class="button">Who do I play against?</a>
+  <a href="#timeline" class="button">When do I play?</a>
+  <a href="#overview-of-the-teams" class="button">Who else is participating?</a>
+  <a href="#layout-of-the-tables" class="button">Where do I play?</a>
+  <a href="#double-elimination" class="button">What is Double Elimination?</a>
+</div>
+
+<h2 id="timeline">Timeline</h2>
+<script>
+  const numberOfGames = 127;
+  const numberOfTeams = 64;
+  const numberOfTables = 10;
+  const gameDurationInMinutes = 15;
+  const gameFinalsDurationInMinutes = 30;
+  const tournamentStart = 12;
+
+  const timeblocks = [
+    { round: 1, time: "13:00", gameNumbers: "1–10" },
+    { round: 2, time: "13:20", gameNumbers: "11–20" },
+    { round: 3, time: "13:40", gameNumbers: "21–30" },
+    { round: 4, time: "14:00", gameNumbers: "31–40" },
+    { round: 5, time: "14:20", gameNumbers: "41–50" },
+    { round: 6, time: "14:40", gameNumbers: "51–60" },
+    { round: 7, time: "15:00", gameNumbers: "61–70" },
+    { round: 8, time: "15:20", gameNumbers: "71–80" },
+    { round: 9, time: "15:40", gameNumbers: "81–90" },
+    { round: 10, time: "16:00", gameNumbers: "91–98" },
+    { round: 11, time: "16:30", gameNumbers: "99–105 + 109–111" },
+    { round: 12, time: "17:00", gameNumbers: "106–108 + 112 + 119" },
+    { round: 13, time: "17:30", gameNumbers: "113–116 + 120" },
+    { round: 14, time: "18:00", gameNumbers: "117–118" },
+    { round: 15, time: "18:30", gameNumbers: "121–122" },
+    { round: 16, time: "19:00", gameNumbers: "123–124" },
+    { round: 17, time: "19:30", gameNumbers: "125" },
+    { round: 18, time: "20:00", gameNumbers: "126" },
+  ]
+
+  function htmlForMatchRound(timeblock) {
+    const hours = parseInt(timeblock.time.split(":")[0])
+    
+    
+    const highlightClass = " timeblock__main--highlight";
+    const currentHour = new Date().getHours();
+    const currentDay = new Date().getDay() + 1;
+    const isHighlighted = currentDay == 14 && hours == currentHour;
+
+
+    return `
+      <div class="timeblock">
+        <div class="timeblock__header">
+          <span class="timeblock__time">${timeblock.time}</span >
+          <hr class="timeblock__hr">
+        </div>
+        <div class="timeblock__main${isHighlighted ? highlightClass : ""}">
+          <span class="timeblock__round">${timeblock.round}</span>
+          <span class="timeblock__game-numbers">Games: ${timeblock.gameNumbers}</span>
+        </div>
+      </div >
+    `
+  }
+
+  function htmlForAgenda() {
+    return timeblocks.reduce((acc, timeblock) => `${acc} ${htmlForMatchRound(timeblock)}`, "")
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    console.log("DOM ready")
+    const $agenda = document.querySelector(".agenda");
+    $agenda.innerHTML = htmlForAgenda();
+  })
+</script>
+
+<div class="agenda">
 </div>
 
 <h2 id="bracket">Bracket</h2>
 <p>This bracket is a preview and subject to change. <strong>The final bracket will be announced on the 13th of August</strong>.</p>
 <iframe src="https://challonge.com/dyeislifedk2021/module" width="100%" height="1000" frameborder="0" scrolling="auto"
   allowtransparency="true"></iframe>
-
-<h2 id="timeline">Timeline</h2>
-<div class="timeline">
-  <header class="timeline-header">
-    <span class="tag is-medium is-info">Start</span>
-  </header>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">12:00</p>
-      <p>Welcome – Introduction & Danish National Anthem</p>
-    </div>
-  </div>
-  <div class="timeline-item timeline-item--padding">
-    <div class="timeline-marker is-image is-32x32">
-      <img src="/favicon-32x32.png">
-    </div>
-    <div class="timeline-content">
-      <p class="heading">12:15</p>
-      <p>Workshop – How to Dye</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-info">Tournament</span>
-  </header>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">12:30</p>
-      <p>Game 1–5</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">13:05</p>
-      <p>Game 6–10</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">13:40</p>
-      <p>Game 11–15</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p>Game 16–20</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">14:15</p>
-      <p>Game 21–25</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">14:50</p>
-      <p>Game 26–30</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">15:25</p>
-      <p>Game 31–35</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">16:00</p>
-      <p>Game 36–40</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">16:35</p>
-      <p>Game 41–45</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">17:10</p>
-      <p>Game 46–50</p>
-    </div>
-  </div>
-  <div class="timeline-item timeline-item--padding">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">17:45</p>
-      <p>Game 51–55</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-info">Quarter-final</span>
-  </header>
-  <div class="timeline-item timeline-item--padding">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">18:20</p>
-      <p>Game 56–59</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-info">Semifinal</span>
-  </header>
-  <div class="timeline-item timeline-item--padding">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">18:55</p>
-      <p>Game 60 and 61</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-info">Final</span>
-  </header>
-  <div class="timeline-item timeline-item--padding">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">19:30</p>
-      <p>Game 62</p>
-    </div>
-  </div>
-  <header class="timeline-header">
-    <span class="tag is-info">Post-games</span>
-  </header>
-  <div class="timeline-item">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">20:05</p>
-      <p>Prices, awards, trophies</p>
-    </div>
-  </div>
-  <div class="timeline-item timeline-item--padding">
-    <div class="timeline-marker"></div>
-    <div class="timeline-content">
-      <p class="heading">21:00</p>
-      <p>Party until we pass out. Celebrate the winners and comfort the losers. We will do this outside and conform to
-        all COVID-19 regulations.</p>
-    </div>
-  </div>
-  <div class="timeline-header">
-    <span class="tag is-medium is-info">End</span>
-  </div>
-</div>
 
 <h2 id="overview-of-the-teams">Overview of the Teams</h2>
 
