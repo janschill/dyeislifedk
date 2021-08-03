@@ -309,9 +309,14 @@ li.game-bottom {
   margin: 10px 0;
 }
 
+.button--tiny-margins {
+  margin: 3px 0;
+}
+
 .timeblock {
-  font-size: 1.25rem;
+  font-size: 1.115rem;
   position: relative;
+  max-width: 550px;
 }
 
 .timeblock--time::after {
@@ -330,16 +335,28 @@ li.game-bottom {
 }
 
 .timeblock__time {
-  width: 10%;
+  width: 20%;
 }
 
 .timeblock__hr {
-  width: 90%;
+  width: 80%;
   margin: 0;
 }
 
+
+@media all and (min-width: 500px) {
+  .timeblock__time {
+    width: 10%;
+  }
+
+  .timeblock__hr {
+    width: 90%;
+  }
+}
+
+
 .timeblock__main {
-  padding: 15px 20px;
+  padding: 5px;
   border-radius: 50px;
   background-color: rgba(245, 245, 245, 0.8);
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
