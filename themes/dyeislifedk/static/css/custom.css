@@ -308,3 +308,59 @@ li.game-bottom {
 .button--margins {
   margin: 10px 0;
 }
+
+.timeblock {
+  font-size: 1.25rem;
+  position: relative;
+}
+
+.timeblock--time::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  height: 2px;
+  background-color: blue;
+  width: 100%;
+}
+
+.timeblock__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.timeblock__time {
+  width: 10%;
+}
+
+.timeblock__hr {
+  width: 90%;
+  margin: 0;
+}
+
+.timeblock__main {
+  padding: 15px 20px;
+  border-radius: 50px;
+  background-color: rgba(245, 245, 245, 0.8);
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.timeblock__main--highlight {
+  background-color: rgba(155, 227, 133, 0.7);
+}
+
+.timeblock__round {
+  background-color: white;
+  padding: 20px;
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin-right: 10px;
+}

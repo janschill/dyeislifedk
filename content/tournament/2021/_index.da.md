@@ -12,15 +12,15 @@ objectPositionClass: "object-position-40"
 
 {{< quicklinks >}}
 
+## Timeline
+
+{{< agenda >}}
+
 ## Bracket
 
 This bracket is a preview and subject to change. **The final bracket will be announced on the 13th of August**.
 
 {{< challonge url="dyeislifedk2021" >}}
-
-## Timeline
-
-{{< timeline >}}
 
 ## Overview of the Teams
 
