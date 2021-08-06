@@ -18,8 +18,6 @@ objectPositionClass: "object-position-40"
 
 ## Bracket
 
-This bracket is a preview and subject to change. **The final bracket will be announced on the 13th of August**.
-
 {{< challonge url="dyeislifedk2021" >}}
 
 ## Overview of the Teams
