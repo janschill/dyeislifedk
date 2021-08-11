@@ -12,13 +12,13 @@ objectPositionClass: "object-position-40"
 
 {{< quicklinks >}}
 
-## Timeline
-
-{{< agenda >}}
-
 ## Bracket
 
 {{< challonge url="dyeislifedk2021" >}}
+
+## Timeline
+
+{{< agenda >}}
 
 ## Overview of the Teams
 
