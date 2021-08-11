@@ -16,7 +16,7 @@ hero: "videos/dyeislife-promo-video-2021-no_audio.mp4"
 
 {{< section-two-image imageUrlA="images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-neva_lost.jpg" imageAltA="NevaLost running to catch a dice." imageUrlB="images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-long_arms.jpg" imageAltB="Team Long Arms with beautiful tossing form." >}}
 
-{{< section-tournament >}}
+{{< section-tournament-danish >}}
 
 {{< section-video url="videos/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-dyelai_lama-against-wololo" >}}
 
