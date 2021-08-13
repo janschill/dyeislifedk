@@ -381,3 +381,19 @@ li.game-bottom {
   font-weight: bold;
   margin-right: 10px;
 }
+
+@media all and (min-width: 850px) {
+  .is-1 {
+    font-size: 5rem !important;
+  }
+}
+
+.section-full-text {
+  margin-bottom: 80px;
+}
+
+.section-full-text__article {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
