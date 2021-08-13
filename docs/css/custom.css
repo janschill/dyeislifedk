@@ -448,6 +448,7 @@ li.game-bottom {
 
 .product-detail__sizes {
   margin-top: 20px;
+  margin-bottom: 10px;
   font-size: 0.9rem;
   font-weight: bold;
   width: 100%;
