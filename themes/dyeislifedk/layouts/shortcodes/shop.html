@@ -38,15 +38,8 @@
       <button class="product-detail__submit button is-black" disabled type="submit">Proceed</button>
     </form>
     <form action="/" class="address-form">
-      <p>Skip the address entry if you don't need it shipped.</p>
       <label class="address-form__label" for="name">Full name</label>
       <input class="address-form__input" type="text" name="name" id="name">
-      <label class="address-form__label" for="streetName">Street name</label>
-      <input class="address-form__input" type="text" name="streetName" id="streetName">
-      <label class="address-form__label" for="postalCode">Postal code</label>
-      <input class="address-form__input" type="text" name="postalCode" id="postalCode">
-      <label class="address-form__label" for="city">City</label>
-      <input class="address-form__input" type="text" name="city" id="city">
 
       <button class="address-form__submit button is-black" disabled type="submit">Go to MobilePay</button>
     </form>
@@ -101,9 +94,6 @@
       }
 
       params.name = document.querySelector("input[name=name]").value;
-      params.streetName = document.querySelector("input[name=streetName]").value;
-      params.postalCode = document.querySelector("input[name=postalCode]").value;
-      params.city = document.querySelector("input[name=city]").value;
 
       return new URLSearchParams(params).toString();
     }
@@ -122,11 +112,10 @@
       })
       $purchaseSubmitButton.addEventListener("click", (event) => {
         event.preventDefault();
-        const url = new URL("http://127.94.0.1:4567")
+        const url = new URL("https://dyeislifedk.janschill.de/order")
         url.search = getFormData(url)
-        console.log(url)
         fetch(url)
-        // window.location.href = "https://mobilepay.dk/box?aG1TNN_rXHfcE6KBPekr6ECcg"
+        window.location.href = "https://mobilepay.dk/box?aG1TNN_rXHfcE6KBPekr6ECcg"
       });
     }
 
