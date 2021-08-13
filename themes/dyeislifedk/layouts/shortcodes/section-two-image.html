@@ -1,13 +1,13 @@
 <div class="section-two-image">
   {{ if isset .Params "linkA" }}
-  <a class="section-two-image__image" href="{{ .Params.linkA }}"><img class="" src="{{ .Params.imageUrlA }}"
-      alt="{{ .Params.imageAltA }}"></a>
+  <a class="width-49" href="{{ .Params.linkA }}"><img class="section-two-image__image section-two-image__image--full"
+      src="{{ .Params.imageUrlA }}" alt="{{ .Params.imageAltA }}"></a>
   {{ else }}
   <img class="section-two-image__image" src="{{ .Params.imageUrlA }}" alt="{{ .Params.imageAltA }}">
   {{ end }}
   {{ if isset .Params "linkB" }}
-  <a class="section-two-image__image" href="{{.Params.linkB}}"><img class="" src="{{ .Params.imageUrlB }}"
-      alt="{{ .Params.imageAltB }}"></a>
+  <a class="width-49" href="{{.Params.linkB}}"><img class="section-two-image__image section-two-image__image--full"
+      src="{{ .Params.imageUrlB }}" alt="{{ .Params.imageAltB }}"></a>
   {{ else }}
   <img class="section-two-image__image" src="{{ .Params.imageUrlB }}" alt="{{ .Params.imageAltB }}">
   {{ end }}
