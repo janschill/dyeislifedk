@@ -1,5 +1,5 @@
 ---
-title: 'Butik'
+title: 'Shop'
 header: 'dyeislife.dk'
 subheader: 'Autumn/Winter 2021'
 hero: "images/shop/dyeislifedk-2021-tietgenkollegiet-tshirt-filter-blur-1.jpg"
