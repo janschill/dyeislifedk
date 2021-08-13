@@ -2,12 +2,51 @@
 {{ with .Get "url" }}
 {{ $url := . }}
 {{ $data := getJSON $url }}
-<div class="columns">
+
+<section class="product-detail">
+  <article class="product-detail__description">
+    <header class="product-detail__header">
+      <h2>Title 2</h2>
+      <h1>Title 1</h1>
+    </header>
+    <p class="product-detail__price">300 DKK</p>
+    <p class="product-detail__text"></p>
+    <form id="purchase-form" class="product-detail__form" action="">
+      <fieldset id="size" class="sizes">
+        <input type="radio" name="size" value="small" id="small">S</input>
+        <label for="small"></label>
+        <input type="radio" name="size" value="medium" id="medium">M</input>
+        <label for="medium"></label>
+        <input type="radio" name="size" value="large" id="large">L</input>
+        <label for="large"></label>
+        <input type="radio" name="size" value="xlarge" id="xlarge">XL</input>
+        <label for="xlarge"></label>
+        <input type="radio" name="size" value="xxlarge" id="xxlarge">XXL</input>
+        <label for="xxlarge"></label>
+      </fieldset>
+      <button class="product-detail__submit button is-primary" disabled type="submit">Purchase</button>
+    </form>
+  </article>
+  <aside class="product-detail__slider">
+    <figure class="product-detail__figure product-detail__figure--front">
+      <img src="/images/shop/dyeislifedk-tietgenkollegiet-tshirt-front.jpeg" alt="">
+      <figcaption>Bla</figcaption>
+    </figure>
+    <figure class="product-detail__figure product-detail__figure--back">
+      <img src="/images/shop/dyeislifedk-tietgenkollegiet-tshirt-back.jpeg" alt="">
+      <figcaption>Bla</figcaption>
+    </figure>
+  </aside>
+</section>
+
+
+
+<!-- <div class="columns">
   {{ range $data.items }}
   {{ $item := . }}
   <div class="column">
     {{ partial "card" (dict "context" . "languageCode" $languageCode) }}
   </div>
   {{ end }}
-</div>
+</div> -->
 {{ end }}
