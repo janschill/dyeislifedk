@@ -4,41 +4,141 @@
 {{ $data := getJSON $url }}
 
 <section class="product-detail">
+  <aside class="product-detail__slider">
+    <div class="slider-wrapper">
+      <img class="slider-image" src="/images/shop/dyeislifedk-tietgenkollegiet-tshirt-front.jpg" alt="">
+      <img class="slider-image" src="/images/shop/dyeislifedk-tietgenkollegiet-tshirt-back.jpg" alt="">
+      <span class="slider-controls">
+        <button class="slider-button slider-button--previous minus-one">&#10094;</button>
+        <button class="slider-button slider-button--next plus-one">&#10095;</button>
+      </span>
+    </div>
+  </aside>
   <article class="product-detail__description">
     <header class="product-detail__header">
-      <h2>Title 2</h2>
-      <h1>Title 1</h1>
+      <h2 class="subtitle is-6 is-uppercase">Coco Baresi</h2>
+      <h1 class="title is-2">Ecru dyeislifedk TK1</h1>
     </header>
-    <p class="product-detail__price">300 DKK</p>
-    <p class="product-detail__text"></p>
+    <p class="product-detail__price"><strong>300 DKK</strong></p>
+    <p class="product-detail__text">This unique piece offers an implacable textile experience. The colors were explored
+      and retrieved in the Southern France sunset’s cast, where it was caught reflecting in the sweltering sand of an
+      alluring Summer’s night.</p>
+    <p class="product-detail__text">The <i>Ecru dyeislifedk TK1</i> will be available for purchase only for a short
+      timeframe and will not make a debut.</p>
     <form id="purchase-form" class="product-detail__form" action="">
-      <fieldset id="size" class="sizes">
-        <input type="radio" name="size" value="small" id="small">S</input>
-        <label for="small"></label>
-        <input type="radio" name="size" value="medium" id="medium">M</input>
-        <label for="medium"></label>
-        <input type="radio" name="size" value="large" id="large">L</input>
-        <label for="large"></label>
-        <input type="radio" name="size" value="xlarge" id="xlarge">XL</input>
-        <label for="xlarge"></label>
-        <input type="radio" name="size" value="xxlarge" id="xxlarge">XXL</input>
-        <label for="xxlarge"></label>
+      <fieldset id="size" class="product-detail__sizes">
+        <input class="product-detail__size-input" type="radio" name="size" value="small" id="option-small"></input>
+        <input class="product-detail__size-input" type="radio" name="size" value="medium" id="option-medium"></input>
+        <input class="product-detail__size-input" type="radio" name="size" value="large" id="option-large"></input>
+        <input class="product-detail__size-input" type="radio" name="size" value="xlarge" id="option-xlarge"></input>
+        <input class="product-detail__size-input" type="radio" name="size" value="xxlarge" id="option-xxlarge"></input>
+        <label class="product-detail__size-label option-small" for="option-small"><span>S</span></label>
+        <label class="product-detail__size-label option-medium" for="option-medium"><span>M</span></label>
+        <label class="product-detail__size-label option-large" for="option-large"><span>L</span></label>
+        <label class="product-detail__size-label option-xlarge" for="option-xlarge"><span>XL</span></label>
+        <label class="product-detail__size-label option-xxlarge" for="option-xxlarge"><span>XXL</span></label>
       </fieldset>
-      <button class="product-detail__submit button is-primary" disabled type="submit">Purchase</button>
+      <button class="product-detail__submit button is-black" disabled type="submit">Proceed</button>
+    </form>
+    <form action="/" class="address-form">
+      <p>Skip the address entry if you don't need it shipped.</p>
+      <label class="address-form__label" for="name">Full name</label>
+      <input class="address-form__input" type="text" name="name" id="name">
+      <label class="address-form__label" for="streetName">Street name</label>
+      <input class="address-form__input" type="text" name="streetName" id="streetName">
+      <label class="address-form__label" for="postalCode">Postal code</label>
+      <input class="address-form__input" type="text" name="postalCode" id="postalCode">
+      <label class="address-form__label" for="city">City</label>
+      <input class="address-form__input" type="text" name="city" id="city">
+
+      <button class="address-form__submit button is-black" disabled type="submit">Go to MobilePay</button>
     </form>
   </article>
-  <aside class="product-detail__slider">
-    <figure class="product-detail__figure product-detail__figure--front">
-      <img src="/images/shop/dyeislifedk-tietgenkollegiet-tshirt-front.jpeg" alt="">
-      <figcaption>Bla</figcaption>
-    </figure>
-    <figure class="product-detail__figure product-detail__figure--back">
-      <img src="/images/shop/dyeislifedk-tietgenkollegiet-tshirt-back.jpeg" alt="">
-      <figcaption>Bla</figcaption>
-    </figure>
-  </aside>
 </section>
 
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    function slider() {
+      function plusDivs(n) {
+        showDivs(slideIndex += n);
+      }
+      let slideIndex = 1;
+      showDivs(slideIndex);
+
+      function showDivs(n) {
+        let i;
+        const x = document.getElementsByClassName("slider-image");
+        if (n > x.length) { slideIndex = 1 }
+        if (n < 1) { slideIndex = x.length };
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[slideIndex - 1].style.display = "block";
+      }
+
+      document.querySelector(".minus-one").addEventListener("click", () => plusDivs(-1));
+      document.querySelector(".plus-one").addEventListener("click", () => plusDivs(+1));
+    }
+
+    function sizes() {
+      const $submitButton = document.querySelector(".product-detail__submit");
+      const $sizes = document.querySelectorAll(".product-detail__size-input");
+
+      const $wrapper = document.querySelector(".product-detail__sizes");
+      $wrapper.addEventListener("click", () => $submitButton.disabled = false)
+
+      $submitButton.addEventListener("click", (event) => {
+        event.preventDefault();
+        showAddressForm()
+      })
+    }
+
+    function getFormData() {
+      const params = {}
+      const $sizes = document.querySelectorAll(".product-detail__size-input");
+      for (let index = 0; index < $sizes.length; index++) {
+        const element = $sizes[index];
+        if (element.checked) {
+          params.size = element.value
+        }
+      }
+
+      params.name = document.querySelector("input[name=name]").value;
+      params.streetName = document.querySelector("input[name=streetName]").value;
+      params.postalCode = document.querySelector("input[name=postalCode]").value;
+      params.city = document.querySelector("input[name=city]").value;
+
+      return new URLSearchParams(params).toString();
+    }
+
+    function showAddressForm() {
+      const $addressForm = document.querySelector(".address-form");
+      $addressForm.style.display = "block";
+      const $purchaseSubmitButton = document.querySelector(".address-form__submit");
+      const $nameInput = document.querySelector("input[name=name]");
+      $nameInput.addEventListener("input", (event) => {
+        if (event.target.value !== "") {
+          $purchaseSubmitButton.disabled = false;
+        } else {
+          $purchaseSubmitButton.disabled = true;
+        }
+      })
+      $purchaseSubmitButton.addEventListener("click", (event) => {
+        event.preventDefault();
+        const url = new URL("http://127.94.0.1:4567")
+        url.search = getFormData(url)
+        console.log(url)
+        fetch(url)
+        // .then(response => response.json())
+        // .then(data => console.log(data));
+        // window.location.href = "https://mobilepay.dk/box?aG1TNN_rXHfcE6KBPekr6ECcg"
+      });
+    }
+
+    sizes();
+    slider();
+  })
+</script>
 
 
 <!-- <div class="columns">

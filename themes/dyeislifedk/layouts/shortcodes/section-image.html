@@ -1,3 +1,8 @@
 <div class="section-image">
+  {{ if isset .Params "link" }}
+  <a class="section-image__image" href="{{ .Params.link }}"><img class="section-image__image"
+      src="{{ .Params.imageUrl }}" alt="{{ .Params.imageAlt }}"></a>
+  {{ else }}
   <img class="section-image__image" src="{{ .Params.imageUrl }}" alt="{{ .Params.imageAlt }}">
+  {{ end }}
 </div>
