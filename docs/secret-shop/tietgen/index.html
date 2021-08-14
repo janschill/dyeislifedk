@@ -183,8 +183,9 @@
         event.preventDefault();
         const url = new URL("https://dyeislifedk.janschill.de/order")
         url.search = getFormData(url)
-        fetch(url)
-        window.location.href = "https://mobilepay.dk/box?aG1TNN_rXHfcE6KBPekr6ECcg"
+        fetch(url).then(response => {
+          window.location.href = "https://mobilepay.dk/box?aG1TNN_rXHfcE6KBPekr6ECcg"
+        })
       });
     }
 
