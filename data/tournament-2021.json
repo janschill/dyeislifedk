@@ -551,10 +551,10 @@
       "hasPaid": "✅"
     },
     {
-      "teamName": "The Cosmic Duo",
+      "teamName": "withdrawn-1",
       "teamMembers": [
-        "Andreas",
-        "Astrid"
+        "-",
+        "-"
       ],
       "wins": 0,
       "losses": 0,
