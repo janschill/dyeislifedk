@@ -7,8 +7,7 @@
         "Hans"
       ],
       "wins": 6,
-      "losses": 0,
-      "hasPaid": "✅"
+      "losses": 0
     },
     {
       "teamName": "Dyelai Lama",
@@ -17,8 +16,7 @@
         "William"
       ],
       "wins": 7,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "NevaLost!",
@@ -27,8 +25,7 @@
         "Nikolaj"
       ],
       "wins": 4,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Gaucho Glue 🖐🏻🤠",
@@ -37,8 +34,7 @@
         "Lando"
       ],
       "wins": 4,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "BFT’s finest",
@@ -47,8 +43,7 @@
         "Rasmus"
       ],
       "wins": 4,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Total Dyenimation",
@@ -57,8 +52,7 @@
         "Christian"
       ],
       "wins": 3,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Fry up",
@@ -67,8 +61,7 @@
         "Will"
       ],
       "wins": 4,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Hold farten",
@@ -77,8 +70,7 @@
         "Mathias"
       ],
       "wins": 3,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Dyerrhea",
@@ -87,8 +79,7 @@
         "Malthe"
       ],
       "wins": 2,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Jonads",
@@ -97,8 +88,7 @@
         "Mads"
       ],
       "wins": 3,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Live hard, DYE trying",
@@ -107,8 +97,7 @@
         "Jonathan"
       ],
       "wins": 3,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "No time to die",
@@ -117,8 +106,7 @@
         "Mads"
       ],
       "wins": 3,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "De fØLsomme drenge",
@@ -127,8 +115,7 @@
         "Christoffer"
       ],
       "wins": 2,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Dye Hard",
@@ -137,8 +124,7 @@
         "Ricco"
       ],
       "wins": 2,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Dye Hard 2: Dye Harder",
@@ -147,8 +133,7 @@
         "Niklas"
       ],
       "wins": 2,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Long Arms",
@@ -157,8 +142,7 @@
         "Rasmus"
       ],
       "wins": 2,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Bomb",
@@ -167,8 +151,7 @@
         "Simon"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Born to dye",
@@ -177,8 +160,7 @@
         "Simone"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Bornholmer Flicka 🌞",
@@ -187,8 +169,7 @@
         "Katrine"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Dyenamite",
@@ -197,8 +178,7 @@
         "Jessica"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Et godt navn",
@@ -207,8 +187,7 @@
         "Emil"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Live or dye trying",
@@ -217,8 +196,7 @@
         "Jakob"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Scotch Bonnet Bois",
@@ -227,8 +205,7 @@
         "Jean"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Skeltvedye",
@@ -237,8 +214,7 @@
         "Sebastian"
       ],
       "wins": 1,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Les deux merveilles",
@@ -247,8 +223,7 @@
         "Theo"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "ErruDyeEllaHvad",
@@ -257,8 +232,7 @@
         "Daniel"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "RAM RANCH",
@@ -267,8 +241,7 @@
         "Nikolaj"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Dice Dice Baby",
@@ -277,8 +250,7 @@
         "Astrid"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Seb et Seb",
@@ -287,8 +259,7 @@
         "Sebastian"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "High Rollers",
@@ -297,8 +268,7 @@
         "Danny"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Formand Emeritus",
@@ -307,8 +277,7 @@
         "Thomas"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     },
     {
       "teamName": "Dye of the Tiger 🐯",
@@ -317,8 +286,7 @@
         "Erik"
       ],
       "wins": 0,
-      "losses": 2,
-      "hasPaid": "✅"
+      "losses": 2
     }
   ]
 }
