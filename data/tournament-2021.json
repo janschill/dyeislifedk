@@ -1,12 +1,66 @@
 {
   "teams": [
     {
+      "teamName": "Super Dyerio Bros",
+      "teamMembers": [
+        "Jonas",
+        "Thomas"
+      ],
+      "wins": 7,
+      "losses": 1
+    },
+    {
+      "teamName": "Surdye",
+      "teamMembers": [
+        "Frederik",
+        "Søren"
+      ],
+      "wins": 6,
+      "losses": 1
+    },
+    {
+      "teamName": "Dyelicious",
+      "teamMembers": [
+        "Jakob",
+        "Rasmus"
+      ],
+      "wins": 6,
+      "losses": 2
+    },
+    {
+      "teamName": "H.O. Langes helte",
+      "teamMembers": [
+        "William",
+        "Hjalte"
+      ],
+      "wins": 8,
+      "losses": 2
+    },
+    {
+      "teamName": "Dye Hard 2: Dye Harder",
+      "teamMembers": [
+        "Gustav",
+        "Jonas"
+      ],
+      "wins": 4,
+      "losses": 2
+    },
+    {
       "teamName": "dye martini",
       "teamMembers": [
         "Karl",
         "Hans"
       ],
       "wins": 6,
+      "losses": 2
+    },
+    {
+      "teamName": "Bouillon",
+      "teamMembers": [
+        "Jonathan",
+        "Mathias"
+      ],
+      "wins": 5,
       "losses": 2
     },
     {
@@ -217,15 +271,6 @@
       "losses": 2
     },
     {
-      "teamName": "Bouillon",
-      "teamMembers": [
-        "Jonathan",
-        "Mathias"
-      ],
-      "wins": 5,
-      "losses": 2
-    },
-    {
       "teamName": "Sink-182",
       "teamMembers": [
         "Johannes",
@@ -259,15 +304,6 @@
         "Ulrica"
       ],
       "wins": 1,
-      "losses": 2
-    },
-    {
-      "teamName": "H.O. Langes helte",
-      "teamMembers": [
-        "William",
-        "Hjalte"
-      ],
-      "wins": 8,
       "losses": 2
     },
     {
@@ -323,15 +359,6 @@
       ],
       "wins": 3,
       "losses": 2
-    },
-    {
-      "teamName": "Super Dyerio Bros",
-      "teamMembers": [
-        "Jonas",
-        "Thomas"
-      ],
-      "wins": 7,
-      "losses": 1
     },
     {
       "teamName": "Dyes before guys",
@@ -442,15 +469,6 @@
       "losses": 2
     },
     {
-      "teamName": "Dyelicious",
-      "teamMembers": [
-        "Jakob",
-        "Rasmus"
-      ],
-      "wins": 6,
-      "losses": 2
-    },
-    {
       "teamName": "Dye 'N' Knight",
       "teamMembers": [
         "Tor",
@@ -466,6 +484,15 @@
         "Mads"
       ],
       "wins": 4,
+      "losses": 2
+    },
+    {
+      "teamName": "Er du dum du dyelig",
+      "teamMembers": [
+        "Öykü",
+        "Daniel"
+      ],
+      "wins": 3,
       "losses": 2
     },
     {
@@ -496,15 +523,6 @@
       "losses": 2
     },
     {
-      "teamName": "Er du dum du dyelig",
-      "teamMembers": [
-        "Öykü",
-        "Daniel"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
       "teamName": "Formand Emeritus",
       "teamMembers": [
         "Mads",
@@ -528,17 +546,8 @@
         "Emma",
         "Filip"
       ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Surdye",
-      "teamMembers": [
-        "Frederik",
-        "Søren"
-      ],
-      "wins": 6,
-      "losses": 1
+      "wins": 2,
+      "losses": 2
     },
     {
       "teamName": "Mara Damsgaard",
@@ -556,15 +565,6 @@
         "Viktor"
       ],
       "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Dye Hard 2: Dye Harder",
-      "teamMembers": [
-        "Gustav",
-        "Jonas"
-      ],
-      "wins": 4,
       "losses": 2
     }
   ]
