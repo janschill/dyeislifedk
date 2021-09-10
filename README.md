@@ -1,24 +1,38 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Design
 
-Things you may want to cover:
+### Home
 
-* Ruby version
+* CMS style
+  * Sections
+  * Section can have content from subpages
+  * Content from subpages, content block is defined, actual content can be chosen
 
-* System dependencies
+### Tournament
 
-* Configuration
+* List
+  * List all the past/present/(in)active tournaments
+  * Register for a tournament
+  * Create a new tournament
+  * Search for tournament
+* Detail
+  * Management view (edit)
+  * List teams (expandable), Ranking
+  * Tournament brackets
+  * Register button
+  * Gallery
 
-* Database creation
+#### Technical Details
 
-* Database initialization
+* A Team has only one tournament
+* Challonge
+  * Challonge generates bracket
+  * Create tournament and teams in Rails and then Challonge
+  * Fetch bracket and status
+  * Updates on both systems
 
-* How to run the test suite
+### Rules
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Markdown generated
+* Markdown editor for admin maybe
