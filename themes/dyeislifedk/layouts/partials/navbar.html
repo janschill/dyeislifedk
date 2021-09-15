@@ -17,8 +17,8 @@
         {{ end }}
         <a class="navbar-item is-bright" href="/tournament/">{{ with .Site.GetPage "/tournament/" }}{{ .Title }}{{ end
           }}</a>
-        <!-- <a class="navbar-item is-bright" href="/shop/">{{ with .Site.GetPage "/shop/" }}{{ .Title }}{{ end
-          }}</a> -->
+        <a class="navbar-item is-bright" href="/shop/">{{ with .Site.GetPage "/shop/" }}{{ .Title }}{{ end
+          }}</a>
         {{ if .IsTranslated }}
         {{ range .Translations }}
         <a class="navbar-item" href="{{ .Permalink }}">{{ .Site.Params.Flag }}</a>
