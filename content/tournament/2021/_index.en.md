@@ -12,6 +12,10 @@ objectPositionClass: "object-position-40"
 
 {{< quicklinks >}}
 
+## Overview of the Teams
+
+{{< standings url="data/tournament-2021.json" >}}
+
 ## Bracket
 
 {{< challonge url="dyeislifedk2021" >}}
@@ -19,10 +23,6 @@ objectPositionClass: "object-position-40"
 ## Timeline
 
 {{< agenda >}}
-
-## Overview of the Teams
-
-{{< standings url="data/tournament-2021.json" >}}
 
 ## Layout of the Tables
 

@@ -73,6 +73,42 @@
       "losses": 2
     },
     {
+      "teamName": "Dyenosaur",
+      "teamMembers": [
+        "Victor",
+        "Christian"
+      ],
+      "wins": 4,
+      "losses": 2
+    },
+    {
+      "teamName": "Er du dum du dyelig",
+      "teamMembers": [
+        "Öykü",
+        "Daniel"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Neva'Lost!",
+      "teamMembers": [
+        "Rasmus",
+        "Nikolaj"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Tuds Dyelings",
+      "teamMembers": [
+        "Mathias",
+        "Frederik"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
       "teamName": "Dye ud af røven tricket",
       "teamMembers": [
         "Johan",
@@ -82,30 +118,129 @@
       "losses": 2
     },
     {
-      "teamName": "Ph.Dye",
+      "teamName": "Dyegestive",
       "teamMembers": [
-        "Anders",
-        "Martin"
+        "Holger",
+        "Mads"
       ],
-      "wins": 1,
+      "wins": 4,
       "losses": 2
     },
     {
-      "teamName": "Vierherforøllene",
+      "teamName": "Hej med dye",
       "teamMembers": [
-        "Daniel",
-        "Sigrid"
+        "Rolf",
+        "Tobias"
       ],
-      "wins": 0,
+      "wins": 3,
       "losses": 2
     },
     {
-      "teamName": "3460iditglas",
+      "teamName": "Sheeeeesh brors",
       "teamMembers": [
-        "Andreas",
-        "Kasper"
+        "Milad",
+        "Viktor"
       ],
-      "wins": 1,
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Dye 'N' Knight",
+      "teamMembers": [
+        "Tor",
+        "Søren"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Dye og mig",
+      "teamMembers": [
+        "Mikkel",
+        "Sebastian"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Dyelige Sommerbørn",
+      "teamMembers": [
+        "Emma",
+        "Filip"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Dyeson støvsluger",
+      "teamMembers": [
+        "Markus",
+        "Maria"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Gaucho Glue 🖐🏻",
+      "teamMembers": [
+        "Frederik",
+        "Viktor"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Mike Dyeson",
+      "teamMembers": [
+        "Aksel",
+        "Maks"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "Mig og dye for altid",
+      "teamMembers": [
+        "Mikkel",
+        "Rikke"
+      ],
+      "wins": 3,
+      "losses": 2
+    },
+    {
+      "teamName": "DYEOFF",
+      "teamMembers": [
+        "Jonathan",
+        "Oliver"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "dye JUNGen",
+      "teamMembers": [
+        "Stine",
+        "Sofie"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "14x",
+      "teamMembers": [
+        "Maria",
+        "Merel"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Tietgens Tigermissere",
+      "teamMembers": [
+        "Emma",
+        "Kiki"
+      ],
+      "wins": 2,
       "losses": 2
     },
     {
@@ -113,6 +248,33 @@
       "teamMembers": [
         "Till",
         "Simon"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Joel Finn Dye",
+      "teamMembers": [
+        "Mads",
+        "Peter"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Duck Dyeve",
+      "teamMembers": [
+        "William",
+        "Simon"
+      ],
+      "wins": 2,
+      "losses": 2
+    },
+    {
+      "teamName": "Live and let Dye",
+      "teamMembers": [
+        "Thomas",
+        "Kristian"
       ],
       "wins": 2,
       "losses": 2
@@ -136,57 +298,30 @@
       "losses": 2
     },
     {
-      "teamName": "Flæskesdye",
+      "teamName": "Ph.Dye",
       "teamMembers": [
-        "Fabian",
-        "Christian"
+        "Anders",
+        "Martin"
       ],
-      "wins": 0,
+      "wins": 1,
       "losses": 2
     },
     {
-      "teamName": "Joel Finn Dye",
+      "teamName": "Dyearria",
       "teamMembers": [
-        "Mads",
-        "Peter"
+        "Malthe",
+        "Harald"
       ],
-      "wins": 2,
+      "wins": 1,
       "losses": 2
     },
     {
-      "teamName": "Ride or Dye",
+      "teamName": "3460iditglas",
       "teamMembers": [
-        "Morten",
+        "Andreas",
         "Kasper"
       ],
-      "wins": 0,
-      "losses": 2
-    },
-    {
-      "teamName": "Dye Hard",
-      "teamMembers": [
-        "Marcus",
-        "Kim"
-      ],
-      "wins": 0,
-      "losses": 2
-    },
-    {
-      "teamName": "Duck Dyeve",
-      "teamMembers": [
-        "William",
-        "Simon"
-      ],
-      "wins": 2,
-      "losses": 2
-    },
-    {
-      "teamName": "Live and let Dye",
-      "teamMembers": [
-        "Thomas",
-        "Kristian"
-      ],
-      "wins": 2,
+      "wins": 1,
       "losses": 2
     },
     {
@@ -199,42 +334,6 @@
       "losses": 2
     },
     {
-      "teamName": "Det Johnson Baby!",
-      "teamMembers": [
-        "Emil",
-        "Marcus"
-      ],
-      "wins": 0,
-      "losses": 2
-    },
-    {
-      "teamName": "Mike Dyeson",
-      "teamMembers": [
-        "Aksel",
-        "Maks"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Hej med dye",
-      "teamMembers": [
-        "Rolf",
-        "Tobias"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Bankers & Wankers",
-      "teamMembers": [
-        "William",
-        "Peter"
-      ],
-      "wins": 0,
-      "losses": 2
-    },
-    {
       "teamName": "Average Joe’s",
       "teamMembers": [
         "Johann",
@@ -244,57 +343,12 @@
       "losses": 2
     },
     {
-      "teamName": "Lady Dye 👑",
-      "teamMembers": [
-        "Laura",
-        "Nicoline"
-      ],
-      "wins": 0,
-      "losses": 2
-    },
-    {
-      "teamName": "Solvers",
-      "teamMembers": [
-        "Henrik",
-        "Sophus"
-      ],
-      "wins": 0,
-      "losses": 2
-    },
-    {
       "teamName": "Porco Dye",
       "teamMembers": [
         "Bjorn",
         "Giuseppe"
       ],
       "wins": 1,
-      "losses": 2
-    },
-    {
-      "teamName": "Sink-182",
-      "teamMembers": [
-        "Johannes",
-        "Billy"
-      ],
-      "wins": 0,
-      "losses": 2
-    },
-    {
-      "teamName": "Dyeson støvsluger",
-      "teamMembers": [
-        "Markus",
-        "Maria"
-      ],
-      "wins": 2,
-      "losses": 2
-    },
-    {
-      "teamName": "Det er ikke dye, det er mig.",
-      "teamMembers": [
-        "Rasmussen",
-        "Viktor"
-      ],
-      "wins": 0,
       "losses": 2
     },
     {
@@ -334,93 +388,12 @@
       "losses": 2
     },
     {
-      "teamName": "Dyenosaur",
-      "teamMembers": [
-        "Victor",
-        "Christian"
-      ],
-      "wins": 4,
-      "losses": 2
-    },
-    {
-      "teamName": "Dye og mig",
-      "teamMembers": [
-        "Mikkel",
-        "Sebastian"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Tuds Dyelings",
-      "teamMembers": [
-        "Mathias",
-        "Frederik"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
       "teamName": "Dyes before guys",
       "teamMembers": [
         "My",
         "Hanna"
       ],
       "wins": 1,
-      "losses": 2
-    },
-    {
-      "teamName": "dye JUNGen",
-      "teamMembers": [
-        "Stine",
-        "Sofie"
-      ],
-      "wins": 2,
-      "losses": 2
-    },
-    {
-      "teamName": "Gaucho Glue 🖐🏻",
-      "teamMembers": [
-        "Frederik",
-        "Viktor"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Dyearria",
-      "teamMembers": [
-        "Malthe",
-        "Harald"
-      ],
-      "wins": 1,
-      "losses": 2
-    },
-    {
-      "teamName": "Neva'Lost!",
-      "teamMembers": [
-        "Rasmus",
-        "Nikolaj"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "DYEOFF",
-      "teamMembers": [
-        "Jonathan",
-        "Oliver"
-      ],
-      "wins": 2,
-      "losses": 2
-    },
-    {
-      "teamName": "Prinserne",
-      "teamMembers": [
-        "Mads",
-        "Nikolaj"
-      ],
-      "wins": 0,
       "losses": 2
     },
     {
@@ -433,12 +406,84 @@
       "losses": 2
     },
     {
-      "teamName": "14x",
+      "teamName": "Kobe Dyeant",
       "teamMembers": [
-        "Maria",
-        "Merel"
+        "Jean",
+        "Taha"
       ],
-      "wins": 2,
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Formand Emeritus",
+      "teamMembers": [
+        "Mads",
+        "Thomas"
+      ],
+      "wins": 1,
+      "losses": 2
+    },
+    {
+      "teamName": "Lady Dye 👑",
+      "teamMembers": [
+        "Laura",
+        "Nicoline"
+      ],
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "teamName": "Bankers & Wankers",
+      "teamMembers": [
+        "William",
+        "Peter"
+      ],
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "teamName": "Det Johnson Baby!",
+      "teamMembers": [
+        "Emil",
+        "Marcus"
+      ],
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "teamName": "Solvers",
+      "teamMembers": [
+        "Henrik",
+        "Sophus"
+      ],
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "teamName": "Sink-182",
+      "teamMembers": [
+        "Johannes",
+        "Billy"
+      ],
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "teamName": "Det er ikke dye, det er mig.",
+      "teamMembers": [
+        "Rasmussen",
+        "Viktor"
+      ],
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "teamName": "Prinserne",
+      "teamMembers": [
+        "Mads",
+        "Nikolaj"
+      ],
+      "wins": 0,
       "losses": 2
     },
     {
@@ -460,51 +505,6 @@
       "losses": 2
     },
     {
-      "teamName": "Mig og dye for altid",
-      "teamMembers": [
-        "Mikkel",
-        "Rikke"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Dye 'N' Knight",
-      "teamMembers": [
-        "Tor",
-        "Søren"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Dyegestive",
-      "teamMembers": [
-        "Holger",
-        "Mads"
-      ],
-      "wins": 4,
-      "losses": 2
-    },
-    {
-      "teamName": "Er du dum du dyelig",
-      "teamMembers": [
-        "Öykü",
-        "Daniel"
-      ],
-      "wins": 3,
-      "losses": 2
-    },
-    {
-      "teamName": "Kobe Dyeant",
-      "teamMembers": [
-        "Jean",
-        "Taha"
-      ],
-      "wins": 1,
-      "losses": 2
-    },
-    {
       "teamName": "WOLOLO",
       "teamMembers": [
         "Ricco",
@@ -523,30 +523,39 @@
       "losses": 2
     },
     {
-      "teamName": "Formand Emeritus",
+      "teamName": "Dye Hard",
       "teamMembers": [
-        "Mads",
-        "Thomas"
+        "Marcus",
+        "Kim"
       ],
-      "wins": 1,
+      "wins": 0,
       "losses": 2
     },
     {
-      "teamName": "Tietgens Tigermissere",
+      "teamName": "Ride or Dye",
       "teamMembers": [
-        "Emma",
-        "Kiki"
+        "Morten",
+        "Kasper"
       ],
-      "wins": 2,
+      "wins": 0,
       "losses": 2
     },
     {
-      "teamName": "Dyelige Sommerbørn",
+      "teamName": "Flæskesdye",
       "teamMembers": [
-        "Emma",
-        "Filip"
+        "Fabian",
+        "Christian"
       ],
-      "wins": 2,
+      "wins": 0,
+      "losses": 2
+    },
+    {
+      "teamName": "Vierherforøllene",
+      "teamMembers": [
+        "Daniel",
+        "Sigrid"
+      ],
+      "wins": 0,
       "losses": 2
     },
     {
@@ -556,15 +565,6 @@
         "Mads"
       ],
       "wins": 0,
-      "losses": 2
-    },
-    {
-      "teamName": "Sheeeeesh brors",
-      "teamMembers": [
-        "Milad",
-        "Viktor"
-      ],
-      "wins": 3,
       "losses": 2
     }
   ]
