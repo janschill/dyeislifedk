@@ -26,16 +26,16 @@
                 href="https://dyeislife.dk/tournament/2021/"
                 />
   </url><url>
-    <loc>https://dyeislife.dk/secret-shop/</loc>
+    <loc>https://dyeislife.dk/shop/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/secret-shop/"
+                href="https://dyeislife.dk/en/shop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/secret-shop/"
+                href="https://dyeislife.dk/shop/"
                 />
   </url><url>
     <loc>https://dyeislife.dk/categories/</loc>
@@ -98,7 +98,7 @@
                 href="https://dyeislife.dk/tags/"
                 />
   </url><url>
-    <loc>https://dyeislife.dk/secret-shop/tietgen/</loc>
+    <loc>https://dyeislife.dk/shop/tietgen/</loc>
   </url><url>
     <loc>https://dyeislife.dk/tournament/</loc>
     <xhtml:link

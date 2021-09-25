@@ -74,16 +74,16 @@
                 href="https://dyeislife.dk/en/rulebook/"
                 />
   </url><url>
-    <loc>https://dyeislife.dk/en/secret-shop/</loc>
+    <loc>https://dyeislife.dk/en/shop/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://dyeislife.dk/secret-shop/"
+                href="https://dyeislife.dk/shop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyeislife.dk/en/secret-shop/"
+                href="https://dyeislife.dk/en/shop/"
                 />
   </url><url>
     <loc>https://dyeislife.dk/en/tags/</loc>
