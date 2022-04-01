@@ -26,6 +26,18 @@
                 href="https://dyeislife.dk/tournament/2021/"
                 />
   </url><url>
+    <loc>https://dyeislife.dk/tournament/2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/tournament/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/tournament/2022/"
+                />
+  </url><url>
     <loc>https://dyeislife.dk/shop/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,6 +96,18 @@
                 rel="alternate"
                 hreflang="da"
                 href="https://dyeislife.dk/rulebook/"
+                />
+  </url><url>
+    <loc>https://dyeislife.dk/tournament/2022/lycvptawk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/tournament/2022/lycvptawk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/tournament/2022/lycvptawk/"
                 />
   </url><url>
     <loc>https://dyeislife.dk/tags/</loc>
