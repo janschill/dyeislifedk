@@ -26,7 +26,7 @@ objectPositionClass: "object-position-40"
 
 ## Layout of the Tables
 
-![image alt text](/images/dyeislifedk-tietgenkollegiet-tournament-2021-layout-tables.svg)
+<!-- ![image alt text](/images/dyeislifedk-tietgenkollegiet-tournament-2021-layout-tables.svg) -->
 
 ## Double Elimination
 

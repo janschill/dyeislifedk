@@ -14,6 +14,7 @@ Our tournaments follow a **double-elimination tournament** format.
 
 * [2020]({{< ref "tournament/2020" >}} "2020")
 * [2021]({{< ref "tournament/2021" >}} "2021")
+* [2022]({{< ref "tournament/2022" >}} "2022")
 
 ## Double Elimination
 

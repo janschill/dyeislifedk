@@ -1,10 +1,28 @@
 {
   "teams": [
     {
-      "teamName": "N/A",
+      "teamName": "Dyelicious",
       "teamMembers": [
-        "N/A",
-        "N/A"
+        "Jakob",
+        "Rasmus"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Dyelai Lama",
+      "teamMembers": [
+        "Jan",
+        "William"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "dye martini",
+      "teamMembers": [
+        "Karl",
+        "Hans"
       ],
       "wins": 0,
       "losses": 0
