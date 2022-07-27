@@ -53,6 +53,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "N/A",
+      "teamMembers": [
+        "Milad",
+        "Daniel"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
