@@ -14,7 +14,7 @@ hero: "videos/dyeislife-promo-video-2021-no_audio.mp4"
   linkText="gå til turnering"
 >}}
 
-{{< section-two-image imageUrlA="images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-neva_lost.jpg" imageAltA="NevaLost running to catch a dice." imageUrlB="images/2020/tournament/dyeislifedk-tietgenkollegiet-tournament-2020-long_arms.jpg" imageAltB="Team Long Arms with beautiful tossing form." >}}
+{{< section-two-image imageUrlA="/images/2021/tournament/dyeislifedk-tietgenkollegiet-tournament-2021-setup.jpeg" imageAltA="Tietgenkollegiet hosting another Dye tournament." imageUrlB="/images/2021/tournament/dyeislifedk-tietgenkollegiet-tournament-2021-winner-super-dye-bros.jpeg" imageAltB="The winners of 2021." >}}
 
 {{< section-tournament-danish >}}
 
