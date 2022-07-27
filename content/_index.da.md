@@ -10,7 +10,7 @@ hero: "videos/dyeislife-promo-video-2021-no_audio.mp4"
   body=`
     Butterfly and Butter Dye. Dette er dit nummer et sted for Dyeindhold i Danmark. Vi organiserer og afholder turneringer, der kommer snart en webshop, og vi har alle de regler, du har brug for at vide for at spille Dye. Se tilmeldingssiden for at få flere oplysninger om årets Dye-turnering.
   `
-  link="/tournament/2021"
+  link="/tournament/2022"
   linkText="gå til turnering"
 >}}
 
