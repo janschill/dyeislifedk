@@ -26,6 +26,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Live fast dye young",
+      "teamMembers": [
+        "Emilia",
+        "Maria"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Tietgens Tigermissere",
+      "teamMembers": [
+        "Kiki",
+        "Emma"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
