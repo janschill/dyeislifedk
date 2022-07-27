@@ -44,6 +44,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Surdye",
+      "teamMembers": [
+        "Frederik",
+        "Søren"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
