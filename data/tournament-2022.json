@@ -80,6 +80,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Super Dyerio Bros",
+      "teamMembers": [
+        "Tom",
+        "Jonas"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
