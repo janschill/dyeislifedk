@@ -89,6 +89,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dyearria",
+      "teamMembers": [
+        "Harald",
+        "Malthe"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
