@@ -71,6 +71,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Formand Emeritus",
+      "teamMembers": [
+        "Mads",
+        "Thomas"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
