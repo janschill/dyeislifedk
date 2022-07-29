@@ -98,6 +98,33 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Golden Dye",
+      "teamMembers": [
+        "Alfa",
+        "Anna"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "No Woman No Dye",
+      "teamMembers": [
+        "Hanna",
+        "Kristina"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Dyeligste Boys",
+      "teamMembers": [
+        "Kasper",
+        "Mateusz"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
