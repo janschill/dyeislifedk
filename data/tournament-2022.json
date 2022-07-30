@@ -125,6 +125,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "To dye or not to dye",
+      "teamMembers": [
+        "Morten",
+        "Jonas"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Naked Boys",
+      "teamMembers": [
+        "Hjalte",
+        "William"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
