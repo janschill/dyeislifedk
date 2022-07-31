@@ -170,6 +170,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dyegestive",
+      "teamMembers": [
+        "Holger",
+        "Mads"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
