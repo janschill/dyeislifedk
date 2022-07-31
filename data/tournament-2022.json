@@ -152,6 +152,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dye og Mig",
+      "teamMembers": [
+        "Sebastian",
+        "Mikkel"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
