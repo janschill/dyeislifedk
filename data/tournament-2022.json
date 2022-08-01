@@ -179,6 +179,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Santa Boom",
+      "teamMembers": [
+        "Tobias",
+        "Magnus"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
