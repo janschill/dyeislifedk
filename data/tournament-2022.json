@@ -188,6 +188,33 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Shine bright DYEmond",
+      "teamMembers": [
+        "Mikkel",
+        "Frederik"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "FC skills to the pay the bills",
+      "teamMembers": [
+        "Laurits",
+        "Oskar"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Underachieving legends",
+      "teamMembers": [
+        "Christian",
+        "Emil"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
