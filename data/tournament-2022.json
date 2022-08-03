@@ -242,6 +242,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dye Soft",
+      "teamMembers": [
+        "Marcus",
+        "Kim Pedersen"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
