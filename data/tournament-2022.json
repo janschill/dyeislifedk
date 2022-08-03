@@ -247,7 +247,43 @@
       "teamName": "Dye Soft",
       "teamMembers": [
         "Marcus",
-        "Kim Pedersen"
+        "Kim"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Dye Hard",
+      "teamMembers": [
+        "Sebastian",
+        "Oliver"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Hold-ligeud",
+      "teamMembers": [
+        "Søren",
+        "Johannes"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Konservativ Ungdom or dye!",
+      "teamMembers": [
+        "Kristian",
+        "Simon"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Team Vumbo Jisma",
+      "teamMembers": [
+        "William",
+        "Sofus"
       ],
       "wins": 0,
       "losses": 0
