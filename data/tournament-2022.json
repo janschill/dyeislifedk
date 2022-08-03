@@ -215,6 +215,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Hads Molm",
+      "teamMembers": [
+        "Mads",
+        "Marcus"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
