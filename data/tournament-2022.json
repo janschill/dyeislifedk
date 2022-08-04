@@ -287,6 +287,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Team Hurtig",
+      "teamMembers": [
+        "Anders",
+        "Thor"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
