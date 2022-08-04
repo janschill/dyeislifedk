@@ -296,6 +296,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Skod Hold 2",
+      "teamMembers": [
+        "Maks",
+        "Christoffer"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Ted Bundye",
+      "teamMembers": [
+        "Oliver",
+        "Laurits"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
