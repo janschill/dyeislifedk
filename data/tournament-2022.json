@@ -314,6 +314,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dyeson støvsuger",
+      "teamMembers": [
+        "Markus",
+        "Maria"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
