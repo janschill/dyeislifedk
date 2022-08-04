@@ -323,6 +323,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dyeranusaurus Rex",
+      "teamMembers": [
+        "Mathias",
+        "Anders"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
