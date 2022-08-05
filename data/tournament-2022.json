@@ -359,6 +359,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dyelig duo",
+      "teamMembers": [
+        "Emil",
+        "Henriette"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
