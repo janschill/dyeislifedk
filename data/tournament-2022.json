@@ -377,6 +377,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Bois Igen",
+      "teamMembers": [
+        "Hans",
+        "Jakob"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Dye Hard 2: Dye Harder",
+      "teamMembers": [
+        "Gustav",
+        "n/a"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
