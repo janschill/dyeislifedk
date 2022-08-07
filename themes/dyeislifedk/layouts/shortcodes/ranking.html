@@ -1,0 +1,26 @@
+{{ $players := getJSON "data/player-rankings.json" }}
+<div class="table-container">
+  <table class="table">
+    <thead>
+      <tr>
+        <th><abbr title="Position">Pos</abbr></th>
+        <th>Name</th>
+        <th>Elo Rating</th>
+        <th>Playing For</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{range $index, $p := sort $players "elo_rating" "desc" }}
+      <tr>
+        <th>{{ add $index 1 }}</th>
+        <td>{{ $p.name }}</td>
+        <td>{{ lang.NumFmt 1 $p.elo_rating "-, ."}}</td>
+        <td>{{ range $k, $v := $p.tournaments }}
+              {{ $k }}: {{$v}}
+            {{ end }}
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

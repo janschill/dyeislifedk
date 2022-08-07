@@ -1,0 +1,1249 @@
+[
+  {
+    "id": 1,
+    "name": "Aksel",
+    "elo_rating": 1408.0980051892,
+    "tournaments": {
+      "2021": "Mike Dyeson"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Alberte",
+    "elo_rating": 1407.1273852881,
+    "tournaments": {
+      "2021": "14x"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Alexandre",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "Les deux merveilles"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Anders",
+    "elo_rating": 1375.0530785306,
+    "tournaments": {
+      "2021": "Ph.Dye"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Andreas",
+    "elo_rating": 1374.0320992225,
+    "tournaments": {
+      "2021": "3460iditglas"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Anna",
+    "elo_rating": 1376.3192711944,
+    "tournaments": {
+      "2021": "Shine bright like a dyemond"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Anna",
+    "elo_rating": 1351.946208318,
+    "tournaments": {
+      "2021": "Marry rich or dye trying"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Asger",
+    "elo_rating": 1423.2042036527,
+    "tournaments": {
+      "2020": "Live hard, DYE trying"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Astrid",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "Dice Dice Baby"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Billy",
+    "elo_rating": 1394.2152140267,
+    "tournaments": {
+      "2020": "Fry up",
+      "2021": "Sink-182"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bjorn",
+    "elo_rating": 1370.4405844409,
+    "tournaments": {
+      "2021": "Porco Dye"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Christian",
+    "elo_rating": 1426.9242986864,
+    "tournaments": {
+      "2020": "Total Dyenimation"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Christian",
+    "elo_rating": 1331.3177831616,
+    "tournaments": {
+      "2021": "Fl\u00e6skesdye"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Christian",
+    "elo_rating": 1453.435360441,
+    "tournaments": {
+      "2021": "Dyenosaur"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Christian",
+    "elo_rating": 1378.2442468264,
+    "tournaments": {
+      "2021": "Try Hard or Dye Trying"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Christian",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Scotch Bonnet Bois"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Christoffer",
+    "elo_rating": 1369.4329839629,
+    "tournaments": {
+      "2020": "De f\u00d8Lsomme drenge",
+      "2021": "Isn't it a coincidence that ..."
+    }
+  },
+  {
+    "id": 18,
+    "name": "Daniel",
+    "elo_rating": 1351.5562905196,
+    "tournaments": {
+      "2021": "Vierherfor\u00f8llene"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Daniel",
+    "elo_rating": 1376.9215919496,
+    "tournaments": {
+      "2020": "Dye Hard",
+      "2021": "WOLOLO"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Daniel",
+    "elo_rating": 1396.5980251889,
+    "tournaments": {
+      "2021": "Er du dum du dyelig",
+      "2020": "ErruDyeEllaHvad"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Danny",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "High Rollers"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Emil",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Et godt navn"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Emil",
+    "elo_rating": 1349.0364153158,
+    "tournaments": {
+      "2021": "Det Johnson Baby!"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Emilie",
+    "elo_rating": 1375.6930033848,
+    "tournaments": {
+      "2021": "Team Dobbelsteen"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Emma",
+    "elo_rating": 1400.4177737655,
+    "tournaments": {
+      "2021": "Tietgens Tigermissere"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Emma",
+    "elo_rating": 1398.5861384017,
+    "tournaments": {
+      "2021": "Dyelige Sommerb\u00f8rn"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Erik",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "Dye of the Tiger \ud83d\udc2f"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Fabian",
+    "elo_rating": 1331.3177831616,
+    "tournaments": {
+      "2021": "Fl\u00e6skesdye"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Filip",
+    "elo_rating": 1398.5861384017,
+    "tournaments": {
+      "2021": "Dyelige Sommerb\u00f8rn"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Frederik",
+    "elo_rating": 1549.0394139208,
+    "tournaments": {
+      "2020": "Long Arms",
+      "2021": "Surdye"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Frederik",
+    "elo_rating": 1461.2090089948,
+    "tournaments": {
+      "2021": "Gaucho Glue \ud83d\udd90\ud83c\udffb",
+      "2020": "Gaucho Glue \ud83d\udd90\ud83c\udffb"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Frederik",
+    "elo_rating": 1477.8198662373,
+    "tournaments": {
+      "2020": "BFT\u2019s finest",
+      "2021": "Tuds Dyelings"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Gitte",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Live fast, dye young"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Giuseppe",
+    "elo_rating": 1370.4405844409,
+    "tournaments": {
+      "2021": "Porco Dye"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Gustav",
+    "elo_rating": 1450.9847195698,
+    "tournaments": {
+      "2020": "Dye Hard 2: Dye Harder",
+      "2021": "Dye Hard 2: Dye Harder"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Hanna",
+    "elo_rating": 1378.4656232934,
+    "tournaments": {
+      "2021": "Dyes before guys"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Hans",
+    "elo_rating": 1581.6462826955,
+    "tournaments": {
+      "2020": "dye martini",
+      "2021": "dye martini"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Harald",
+    "elo_rating": 1377.2662530202,
+    "tournaments": {
+      "2021": "Diarrhea",
+      "2020": "Diarrhea"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Henrik",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "Dye of the Tiger \ud83d\udc2f"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Henrik",
+    "elo_rating": 1350.1384630051,
+    "tournaments": {
+      "2021": "Solvers"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Hjalte",
+    "elo_rating": 1534.5435679119,
+    "tournaments": {
+      "2021": "H.O. Langes helte"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Holger",
+    "elo_rating": 1459.0091956668,
+    "tournaments": {
+      "2021": "Dyegestive",
+      "2020": "Total Dyenimation"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Ida",
+    "elo_rating": 1376.3192711944,
+    "tournaments": {
+      "2021": "Shine bright like a dyemond"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Jakob",
+    "elo_rating": 1376.6110116112,
+    "tournaments": {
+      "2021": "Average Joe\u2019s"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Jakob",
+    "elo_rating": 1493.6047067017,
+    "tournaments": {
+      "2021": "Dyelicious",
+      "2020": "Live or dye trying"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Jan",
+    "elo_rating": 1518.3603338555,
+    "tournaments": {
+      "2020": "Dyelai Lama"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Jean",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2021": "Kobe Dyeant",
+      "2020": "Scotch Bonnet Bois"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Jeppe",
+    "elo_rating": 1375.1314046264,
+    "tournaments": {
+      "2021": "Dyennis Rommedahl"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Jessica",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Dyenamite"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Joakim",
+    "elo_rating": 1425.8143701987,
+    "tournaments": {
+      "2021": "Dyelai Lama"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Johan",
+    "elo_rating": 1448.2549476016,
+    "tournaments": {
+      "2021": "Dye ud af r\u00f8ven tricket"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Johann",
+    "elo_rating": 1376.6110116112,
+    "tournaments": {
+      "2021": "Average Joe\u2019s"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Johannes",
+    "elo_rating": 1347.5495224502,
+    "tournaments": {
+      "2021": "Sink-182"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Jon",
+    "elo_rating": 1423.2042036527,
+    "tournaments": {
+      "2020": "Jonads"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Jonas",
+    "elo_rating": 1450.9847195698,
+    "tournaments": {
+      "2021": "Dye Hard 2: Dye Harder"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Jonas",
+    "elo_rating": 1514.0511944037,
+    "tournaments": {
+      "2020": "Live or dye trying",
+      "2021": "Super Dyerio Bros"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Jonathan",
+    "elo_rating": 1423.0022975816,
+    "tournaments": {
+      "2021": "DYEOFF",
+      "2020": "Live hard, DYE trying"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Jonathan",
+    "elo_rating": 1497.4690703409,
+    "tournaments": {
+      "2021": "Bouillon",
+      "2020": "Hold farten"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Juliette",
+    "elo_rating": 1375.6930033848,
+    "tournaments": {
+      "2021": "Team Dobbelsteen"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Karl",
+    "elo_rating": 1581.6462826955,
+    "tournaments": {
+      "2020": "dye martini",
+      "2021": "dye martini"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Kasper",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Skeltvedye"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Kasper",
+    "elo_rating": 1374.0320992225,
+    "tournaments": {
+      "2021": "3460iditglas"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Kasper",
+    "elo_rating": 1359.5168373864,
+    "tournaments": {
+      "2021": "Ride or Dye"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Katrine",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Bornholmer Flicka \ud83c\udf1e"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Kiki",
+    "elo_rating": 1400.4177737655,
+    "tournaments": {
+      "2021": "Tietgens Tigermissere"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Kim",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Dye Hard"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Kristian",
+    "elo_rating": 1403.1777141465,
+    "tournaments": {
+      "2021": "Live and let Dye"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Laura",
+    "elo_rating": 1325.8990594186,
+    "tournaments": {
+      "2020": "Born to dye",
+      "2021": "Lady Dye \ud83d\udc51"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Laurits",
+    "elo_rating": 1423.2042036527,
+    "tournaments": {
+      "2020": "No time to die"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Luisa",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Only  the good dye young"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Mads",
+    "elo_rating": 1381.4223309769,
+    "tournaments": {
+      "2021": "Joel Finn Dye"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Mads",
+    "elo_rating": 1371.5326776961,
+    "tournaments": {
+      "2020": "Jonads",
+      "2021": "Mara Damsgaard"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Mads",
+    "elo_rating": 1352.9046627756,
+    "tournaments": {
+      "2021": "Prinserne"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Mads",
+    "elo_rating": 1330.6118987365,
+    "tournaments": {
+      "2020": "Formand Emeritus",
+      "2021": "Formand Emeritus"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Mads",
+    "elo_rating": 1455.2891006331,
+    "tournaments": {
+      "2021": "Dyegestive",
+      "2020": "No time to die"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Maks",
+    "elo_rating": 1408.0980051892,
+    "tournaments": {
+      "2021": "Mike Dyeson"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Malthe",
+    "elo_rating": 1377.2662530202,
+    "tournaments": {
+      "2021": "Diarrhea",
+      "2020": "Diarrhea"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Marcus",
+    "elo_rating": 1349.0364153158,
+    "tournaments": {
+      "2021": "Det Johnson Baby!"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Marcus",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "RAM RANCH"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Marcus",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Dye Hard"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Maria",
+    "elo_rating": 1407.1273852881,
+    "tournaments": {
+      "2021": "14x"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Maria",
+    "elo_rating": 1405.0781922271,
+    "tournaments": {
+      "2021": "Dyeson st\u00f8vsluger"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Markus",
+    "elo_rating": 1405.0781922271,
+    "tournaments": {
+      "2021": "Dyeson st\u00f8vsluger"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Martin",
+    "elo_rating": 1375.0530785306,
+    "tournaments": {
+      "2021": "Ph.Dye"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Mathias",
+    "elo_rating": 1426.5198672365,
+    "tournaments": {
+      "2021": "Tuds Dyelings"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Mathias",
+    "elo_rating": 1497.4690703409,
+    "tournaments": {
+      "2021": "Bouillon",
+      "2020": "Hold farten"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Mathilde",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Only  the good dye young"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Mikkel",
+    "elo_rating": 1426.2634429819,
+    "tournaments": {
+      "2021": "Dye og mig"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Mikkel",
+    "elo_rating": 1422.4583591138,
+    "tournaments": {
+      "2021": "Mig og dye for altid"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Milad",
+    "elo_rating": 1382.6568112249,
+    "tournaments": {
+      "2020": "High Rollers",
+      "2021": "Sheeeeesh brors"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Morten",
+    "elo_rating": 1359.5168373864,
+    "tournaments": {
+      "2021": "Ride or Dye"
+    }
+  },
+  {
+    "id": 92,
+    "name": "My",
+    "elo_rating": 1378.4656232934,
+    "tournaments": {
+      "2021": "Dyes before guys"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Niclas",
+    "elo_rating": 1378.2442468264,
+    "tournaments": {
+      "2020": "De f\u00d8Lsomme drenge",
+      "2021": "Try Hard or Dye Trying"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Nicoline",
+    "elo_rating": 1350.8990594186,
+    "tournaments": {
+      "2021": "Lady Dye \ud83d\udc51"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Niklas",
+    "elo_rating": 1400.0,
+    "tournaments": {
+      "2020": "Dye Hard 2: Dye Harder"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Nikolai",
+    "elo_rating": 1448.2549476016,
+    "tournaments": {
+      "2021": "Dye ud af r\u00f8ven tricket"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Nikolaj",
+    "elo_rating": 1466.6114572739,
+    "tournaments": {
+      "2021": "NevaLost!",
+      "2020": "NevaLost!"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Nikolaj",
+    "elo_rating": 1302.9046627756,
+    "tournaments": {
+      "2021": "Prinserne",
+      "2020": "RAM RANCH"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Oliver",
+    "elo_rating": 1399.7980939288,
+    "tournaments": {
+      "2021": "DYEOFF"
+    }
+  },
+  {
+    "id": 100,
+    "name": "\u00d6yk\u00fc",
+    "elo_rating": 1396.5980251889,
+    "tournaments": {
+      "2021": "Er du dum du dyelig",
+      "2020": "ErruDyeEllaHvad"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Peter",
+    "elo_rating": 1346.4268441296,
+    "tournaments": {
+      "2021": "Bankers & Wankers"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Peter",
+    "elo_rating": 1381.4223309769,
+    "tournaments": {
+      "2021": "Joel Finn Dye"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Petrea",
+    "elo_rating": 1351.946208318,
+    "tournaments": {
+      "2021": "Marry rich or dye trying"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Rasmus",
+    "elo_rating": 1518.6047067017,
+    "tournaments": {
+      "2021": "Dyelicious"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Rasmus",
+    "elo_rating": 1466.6114572739,
+    "tournaments": {
+      "2021": "NevaLost!",
+      "2020": "NevaLost!"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Rasmus",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Det er ikke dye, det er mig."
+    }
+  },
+  {
+    "id": 107,
+    "name": "Rasmus",
+    "elo_rating": 1451.2999990009,
+    "tournaments": {
+      "2020": "BFT\u2019s finest"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Ricco",
+    "elo_rating": 1376.9215919496,
+    "tournaments": {
+      "2020": "Dye Hard",
+      "2021": "WOLOLO"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Richard",
+    "elo_rating": 1400.0,
+    "tournaments": {
+      "2020": "Long Arms"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Rikke",
+    "elo_rating": 1422.4583591138,
+    "tournaments": {
+      "2021": "Mig og dye for altid"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Rolf",
+    "elo_rating": 1428.4184934922,
+    "tournaments": {
+      "2021": "Hej med dye"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Sara",
+    "elo_rating": 1323.3284740434,
+    "tournaments": {
+      "2020": "Et godt navn",
+      "2021": "Mara Damsgaard"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Sebastian",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Skeltvedye"
+    }
+  },
+  {
+    "id": 114,
+    "name": "Sebastian",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "Seb et Seb"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Sebastian",
+    "elo_rating": 1426.2634429819,
+    "tournaments": {
+      "2021": "Dye og mig"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Sebastian",
+    "elo_rating": 1327.5750346133,
+    "tournaments": {
+      "2021": "Dye save the Queen",
+      "2020": "Seb et Seb"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Signe",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Bornholmer Flicka \ud83c\udf1e"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Signe",
+    "elo_rating": 1377.5750346133,
+    "tournaments": {
+      "2021": "Dye save the Queen"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Sigrid",
+    "elo_rating": 1351.5562905196,
+    "tournaments": {
+      "2021": "Vierherfor\u00f8llene"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Simon",
+    "elo_rating": 1398.484220472,
+    "tournaments": {
+      "2021": "Duck Dyeve"
+    }
+  },
+  {
+    "id": 121,
+    "name": "Simon",
+    "elo_rating": 1375.2284328693,
+    "tournaments": {
+      "2020": "Bomb",
+      "2021": "Speziale"
+    }
+  },
+  {
+    "id": 122,
+    "name": "Simone",
+    "elo_rating": 1375.0,
+    "tournaments": {
+      "2020": "Born to dye"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Simone",
+    "elo_rating": 1354.5454545455,
+    "tournaments": {
+      "2021": "Dyenamite"
+    }
+  },
+  {
+    "id": 124,
+    "name": "Sofia",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Live fast, dye young"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Sofie",
+    "elo_rating": 1400.2378703092,
+    "tournaments": {
+      "2021": "dye JUNGen"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Sophie",
+    "elo_rating": 1377.2693638108,
+    "tournaments": {
+      "2021": "WinDyeOrDyeTrying"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Sophus",
+    "elo_rating": 1350.1384630051,
+    "tournaments": {
+      "2021": "Solvers"
+    }
+  },
+  {
+    "id": 128,
+    "name": "S\u00f8ren",
+    "elo_rating": 1549.0394139208,
+    "tournaments": {
+      "2021": "Surdye"
+    }
+  },
+  {
+    "id": 129,
+    "name": "S\u00f8ren",
+    "elo_rating": 1434.8316000233,
+    "tournaments": {
+      "2021": "Dye 'N' Knight"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Steffen",
+    "elo_rating": 1354.5454545455,
+    "tournaments": {
+      "2021": "Dyenamite"
+    }
+  },
+  {
+    "id": 131,
+    "name": "Stine",
+    "elo_rating": 1400.2378703092,
+    "tournaments": {
+      "2021": "dye JUNGen"
+    }
+  },
+  {
+    "id": 132,
+    "name": "Taha",
+    "elo_rating": 1400.0,
+    "tournaments": {
+      "2021": "Kobe Dyeant"
+    }
+  },
+  {
+    "id": 133,
+    "name": "Theo",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "Les deux merveilles"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Thomas",
+    "elo_rating": 1403.1777141465,
+    "tournaments": {
+      "2021": "Live and let Dye"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Thomas",
+    "elo_rating": 1330.6118987365,
+    "tournaments": {
+      "2020": "Formand Emeritus",
+      "2021": "Formand Emeritus"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Till",
+    "elo_rating": 1400.2284328693,
+    "tournaments": {
+      "2021": "Speziale"
+    }
+  },
+  {
+    "id": 137,
+    "name": "Tobias",
+    "elo_rating": 1375.1314046264,
+    "tournaments": {
+      "2021": "Dyennis Rommedahl"
+    }
+  },
+  {
+    "id": 138,
+    "name": "Tobias",
+    "elo_rating": 1428.4184934922,
+    "tournaments": {
+      "2021": "Hej med dye"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Tom",
+    "elo_rating": 1514.0511944037,
+    "tournaments": {
+      "2020": "Dyenamite",
+      "2021": "Super Dyerio Bros"
+    }
+  },
+  {
+    "id": 140,
+    "name": "Tor",
+    "elo_rating": 1409.8316000233,
+    "tournaments": {
+      "2020": "Bomb",
+      "2021": "Dye 'N' Knight"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Ulrica",
+    "elo_rating": 1377.2693638108,
+    "tournaments": {
+      "2021": "WinDyeOrDyeTrying"
+    }
+  },
+  {
+    "id": 142,
+    "name": "Victor",
+    "elo_rating": 1453.435360441,
+    "tournaments": {
+      "2021": "Dyenosaur"
+    }
+  },
+  {
+    "id": 143,
+    "name": "Viktor",
+    "elo_rating": 1432.6568112249,
+    "tournaments": {
+      "2021": "Sheeeeesh brors"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Viktor",
+    "elo_rating": 1461.2090089948,
+    "tournaments": {
+      "2021": "Gaucho Glue \ud83d\udd90\ud83c\udffb",
+      "2020": "Gaucho Glue \ud83d\udd90\ud83c\udffb"
+    }
+  },
+  {
+    "id": 145,
+    "name": "Viktor",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2021": "Det er ikke dye, det er mig."
+    }
+  },
+  {
+    "id": 146,
+    "name": "Viktoria",
+    "elo_rating": 1350.0,
+    "tournaments": {
+      "2020": "Dice Dice Baby"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Will",
+    "elo_rating": 1416.0986755394,
+    "tournaments": {
+      "2020": "Fry up",
+      "2021": "Isn't it a coincidence that ..."
+    }
+  },
+  {
+    "id": 148,
+    "name": "William",
+    "elo_rating": 1346.4268441296,
+    "tournaments": {
+      "2021": "Bankers & Wankers"
+    }
+  },
+  {
+    "id": 149,
+    "name": "William",
+    "elo_rating": 1398.484220472,
+    "tournaments": {
+      "2021": "Duck Dyeve"
+    }
+  },
+  {
+    "id": 150,
+    "name": "William",
+    "elo_rating": 1534.5435679119,
+    "tournaments": {
+      "2021": "H.O. Langes helte"
+    }
+  },
+  {
+    "id": 151,
+    "name": "William",
+    "elo_rating": 1544.1747040542,
+    "tournaments": {
+      "2020": "Dyelai Lama",
+      "2021": "Dyelai Lama"
+    }
+  }
+]
