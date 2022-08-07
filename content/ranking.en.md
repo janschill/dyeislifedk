@@ -6,7 +6,7 @@ hero: "images/2021/tournament/dyeislifedk-tietgenkollegiet-tournament-2021-who-i
 objectPositionClass: "object-position-40"
 ---
 
-# Elo Rating
+# DyElo Rating
 
 Here we are tracking the performance of all tournament participants. The data includes only the games from the [2020](/tournament/2020/), [2021](/tournament/2021/) Tietgen Dye Tournament.
 We are calculating the strength of an individual by using the [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system). Very simplified it means you gain points when you win and lose otherwise. The amount of points you gain/lose depend on your win/loss probability. Further information at the [bottom](#elo-rating-system-for-dye) of the table.

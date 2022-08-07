@@ -6,7 +6,7 @@ hero: "images/2021/tournament/dyeislifedk-tietgenkollegiet-tournament-2021-who-i
 objectPositionClass: "object-position-40"
 ---
 
-# Elo Rating
+# DyElo Rating
 
 Her følger vi alle turneringsdeltagernes præstationer. Dataene omfatter kun kampene fra [2020](/tournament/2020/), [2021](/tournament/2021/) Tietgen Dye Tournament. Vi beregner styrken af en person ved hjælp af [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system). Meget forenklet betyder det, at man får point, når man vinder, og taber ellers. Hvor mange point du får/taber afhænger af din vinder/tabsandsynlighed. Yderligere oplysninger findes [nederst](#elo-rating-system-for-dye) i tabellen.
 
