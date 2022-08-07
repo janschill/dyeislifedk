@@ -395,6 +395,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Mullet till I die",
+      "teamMembers": [
+        "Gustav",
+        "Emma"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
