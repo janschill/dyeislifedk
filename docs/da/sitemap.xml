@@ -86,6 +86,18 @@
                 href="https://dyeislife.dk/about/"
                 />
   </url><url>
+    <loc>https://dyeislife.dk/ranking/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/ranking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/ranking/"
+                />
+  </url><url>
     <loc>https://dyeislife.dk/rulebook/</loc>
     <xhtml:link
                 rel="alternate"
