@@ -413,6 +413,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dye og mig - til sommer i Europa",
+      "teamMembers": [
+        "Rasmus",
+        "Viktor"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "ToBeDetermined",
+      "teamMembers": [
+        "Jon",
+        "Emil"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
