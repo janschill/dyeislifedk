@@ -431,6 +431,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "ArdyeArdit",
+      "teamMembers": [
+        "Emil",
+        "Peter"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
