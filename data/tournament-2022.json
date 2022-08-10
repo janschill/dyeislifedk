@@ -440,6 +440,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Tårnby Sport",
+      "teamMembers": [
+        "Rune",
+        "Aksel"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
