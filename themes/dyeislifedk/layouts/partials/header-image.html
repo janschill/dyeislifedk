@@ -15,8 +15,31 @@
   <div class="hero-body">
     <div class="container has-text-centered is-link">
       {{ if .IsHome }}
-      <img loading=lazy class="logo logo--small" src="{{ .Site.BaseURL }}logo/dyeislifedk-logo-simple.svg"
-        alt="{{ .Site.Title }}.">
+      <script>
+        document.addEventListener("DOMContentLoaded", () => {
+          $countdown = document.querySelector("#countdown");
+          const end = new Date("09/10/2022 12:00:00 PM")
+          const _second = 1000;
+          const _minute = _second * 60;
+          const _hour = _minute * 60;
+          const _day = _hour * 24;
+
+          function showRemaining() {
+            const now = new Date();
+            const distance = end - now;
+            const hours = Math.floor((distance % _day) / _hour);
+            const minutes = Math.floor((distance % _hour) / _minute);
+            const seconds = Math.floor((distance % _minute) / _second);
+            const days = Math.floor(distance / _day);
+            $countdown.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`
+          }
+
+          setInterval(showRemaining, 1000);
+        })
+      </script>
+      <h1 id="countdown" class="title is-1 is-bright">
+        dyeislifedk
+      </h1>
       {{ else }}
       <h1 class="title is-1 is-bright">
         {{ .Params.header }}
