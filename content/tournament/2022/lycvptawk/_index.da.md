@@ -12,4 +12,4 @@ After a huge success of two Dye tournament in 2020 and 2021 we are back to bring
 
 If you have not yet joined the Facebook event do so by going to https://fb.me/e/3mhuxXUdd.
 
-{{< signup id="mvolbvzn">}}
+{{< signup id="mjvzvywr">}}
