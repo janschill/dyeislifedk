@@ -449,6 +449,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dyenosaur",
+      "teamMembers": [
+        "Victor",
+        "Christian"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Team Don Canarch",
+      "teamMembers": [
+        "Oscar",
+        "Marcus"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
