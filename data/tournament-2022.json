@@ -485,6 +485,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Amaida",
+      "teamMembers": [
+        "Amalie",
+        "Ida"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
