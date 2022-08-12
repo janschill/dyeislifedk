@@ -467,6 +467,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Ride or Dye",
+      "teamMembers": [
+        "Kasper",
+        "David"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "dyeskraber",
+      "teamMembers": [
+        "Lasse",
+        "Oscar"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
