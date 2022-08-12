@@ -494,6 +494,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Dyeing for being first(y)",
+      "teamMembers": [
+        "Tobias",
+        "Sebastian"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
