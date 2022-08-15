@@ -503,6 +503,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Fine Dyening",
+      "teamMembers": [
+        "Ruben",
+        "Simon"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
