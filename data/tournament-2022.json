@@ -512,6 +512,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Chokoladekage dye",
+      "teamMembers": [
+        "Rasmus",
+        "Andreas"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
