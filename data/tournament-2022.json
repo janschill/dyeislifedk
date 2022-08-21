@@ -539,6 +539,15 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Åh Joe",
+      "teamMembers": [
+        "Jens",
+        "Jonas"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
