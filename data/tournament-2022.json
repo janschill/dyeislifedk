@@ -521,6 +521,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Mi dye es su dye",
+      "teamMembers": [
+        "Julie",
+        "Celine"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Dye Up",
+      "teamMembers": [
+        "Emil",
+        "Emil"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
