@@ -548,6 +548,24 @@
       ],
       "wins": 0,
       "losses": 0
+    },
+    {
+      "teamName": "Marry Rich Or Dye Trying vol 2",
+      "teamMembers": [
+        "Petrea",
+        "Gitte"
+      ],
+      "wins": 0,
+      "losses": 0
+    },
+    {
+      "teamName": "Live and Let Dye",
+      "teamMembers": [
+        "Roman",
+        "Theo"
+      ],
+      "wins": 0,
+      "losses": 0
     }
   ]
 }
