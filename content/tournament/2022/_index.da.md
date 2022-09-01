@@ -18,7 +18,7 @@ objectPositionClass: "object-position-40"
 
 ## Bracket
 
-<!-- {{< challonge url="dyeislifedk2022" >}} -->
+{{< challonge url="dyeislifedk2022" >}}
 
 ## Timeline
 
