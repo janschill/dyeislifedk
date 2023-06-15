@@ -16,3 +16,4 @@ hugo.linux
 log/
 node_modules/
 tmp
+.vscode/

@@ -1,22 +1,22 @@
 {
   "teams": [
     {
-      "teamName": "Dyelicious",
-      "teamMembers": [
-        "Jakob",
-        "Rasmus"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
       "teamName": "Dyelai Lama",
       "teamMembers": [
         "Jan",
         "William"
       ],
-      "wins": 0,
+      "wins": 7,
       "losses": 0
+    },
+    {
+      "teamName": "Pikachu Jeg Vælger Dye!",
+      "teamMembers": [
+        "Kristian",
+        "Mathias"
+      ],
+      "wins": 7,
+      "losses": 2
     },
     {
       "teamName": "dye martini",
@@ -24,8 +24,26 @@
         "Karl",
         "Hans"
       ],
-      "wins": 0,
-      "losses": 0
+      "wins": 5,
+      "losses": 2
+    },
+    {
+      "teamName": "Surdye",
+      "teamMembers": [
+        "Frederik",
+        "Søren"
+      ],
+      "wins": 6,
+      "losses": 2
+    },
+    {
+      "teamName": "Dyelicious",
+      "teamMembers": [
+        "Jakob",
+        "Rasmus"
+      ],
+      "wins": 4,
+      "losses": 2
     },
     {
       "teamName": "Live fast dye young",
@@ -41,15 +59,6 @@
       "teamMembers": [
         "Kiki",
         "Emma"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Surdye",
-      "teamMembers": [
-        "Frederik",
-        "Søren"
       ],
       "wins": 0,
       "losses": 0
@@ -177,8 +186,8 @@
         "Tobias",
         "Magnus"
       ],
-      "wins": 0,
-      "losses": 0
+      "wins": 4,
+      "losses": 2
     },
     {
       "teamName": "Shine bright DYEmond",
@@ -220,15 +229,6 @@
       "teamName": "Bouillon",
       "teamMembers": [
         "Jonathan",
-        "Mathias"
-      ],
-      "wins": 0,
-      "losses": 0
-    },
-    {
-      "teamName": "Pikachu Jeg Vælger Dye!",
-      "teamMembers": [
-        "Kristian",
         "Mathias"
       ],
       "wins": 0,
@@ -465,8 +465,8 @@
         "Oscar",
         "Marcus"
       ],
-      "wins": 0,
-      "losses": 0
+      "wins": 4,
+      "losses": 2
     },
     {
       "teamName": "Ride or Dye",
@@ -564,8 +564,8 @@
         "Roman",
         "Rasmus"
       ],
-      "wins": 0,
-      "losses": 0
+      "wins": 5,
+      "losses": 2
     },
     {
       "teamName": "nak Og æd",
