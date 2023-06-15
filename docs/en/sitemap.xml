@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dyeislife.dk/en/thanks/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/thanks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/thanks/"
+                />
+  </url><url>
     <loc>https://dyeislife.dk/en/tournament/2023/jsdjo123jh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -132,18 +144,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dyeislife.dk/en/tags/"
-                />
-  </url><url>
-    <loc>https://dyeislife.dk/en/thanks/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://dyeislife.dk/thanks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dyeislife.dk/en/thanks/"
                 />
   </url><url>
     <loc>https://dyeislife.dk/en/tournament/</loc>
