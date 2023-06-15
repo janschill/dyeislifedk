@@ -110,6 +110,18 @@
                 href="https://dyeislife.dk/en/shop/"
                 />
   </url><url>
+    <loc>https://dyeislife.dk/en/tournament/2023/jsdjo123jh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/tournament/2023/jsdjo123jh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/tournament/2023/jsdjo123jh/"
+                />
+  </url><url>
     <loc>https://dyeislife.dk/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,6 +132,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dyeislife.dk/en/tags/"
+                />
+  </url><url>
+    <loc>https://dyeislife.dk/en/thanks/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://dyeislife.dk/thanks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyeislife.dk/en/thanks/"
                 />
   </url><url>
     <loc>https://dyeislife.dk/en/tournament/</loc>
