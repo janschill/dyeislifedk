@@ -1,5 +1,4 @@
 ---
-title: 'Thanks'
 header: 'Sign Up Complete'
 subheader: 'Dye Tournament 2023'
 hero: "images/2021/tournament/dyeislifedk-tietgenkollegiet-tournament-2021-who-is-the-strongest.jpeg"
